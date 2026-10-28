@@ -150,7 +150,7 @@
         ],
         "x": 104,
         "y": 879,
-        "w": 1112,
+        "w": 1092,
         "h": 182
     },
     {
@@ -173,8 +173,490 @@
         ],
         "x": 104,
         "y": 1099,
-        "w": 892,
+        "w": 872,
         "h": 82
+    },
+    {
+        "id": "81be7e57f137d110",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - describe",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "7fa93948f3f8ded7",
+            "eb5ffd2f84ef3149",
+            "c29b89abbe05ec10"
+        ],
+        "x": 124,
+        "y": 39,
+        "w": 412,
+        "h": 82
+    },
+    {
+        "id": "f63dc90f53557f31",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - menu",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "c878eae39f2819f9",
+            "159742bdd79b2914",
+            "6ece49950e55fda6",
+            "82e418a1357ac4c4"
+        ],
+        "x": 124,
+        "y": 159,
+        "w": 392,
+        "h": 142
+    },
+    {
+        "id": "d18bf72ce671c484",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "reset",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "7f38fd8e5143c993",
+            "c1afeb4ccab36126"
+        ],
+        "x": 114,
+        "y": 339,
+        "w": 332,
+        "h": 82
+    },
+    {
+        "id": "66f596c3e8603ee8",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - source",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "0cebaeefc2cd112f",
+            "a894980dbf13f95a",
+            "1888911718ddcfce",
+            "ce7e5f4d46721013",
+            "05b6b36180eaeda6",
+            "f7596af7e865aa3f",
+            "2a6ba84b3355bffe",
+            "03006948bff633ee",
+            "21060e985ac7de82",
+            "9ea8343ebd096889",
+            "107b60e5e29cbdc8",
+            "87e8cdafc9b0ad12",
+            "9afd04aabf201039",
+            "89257009e707a5ae",
+            "ebe01c9b2ae9584c",
+            "bff3387ee3a8417a",
+            "c63208c9405b2f64",
+            "6f8562990b904380",
+            "d6f55a7ab996dbe3"
+        ],
+        "x": 124,
+        "y": 464,
+        "w": 832,
+        "h": 517
+    },
+    {
+        "id": "f6ccc2cfcb220bbe",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - refresh",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "758795890ad399b5",
+            "f9253a27a6d5654f",
+            "0f21ff08060a8117",
+            "5bd5961ce0757640",
+            "699ca1392a2c1da5",
+            "b24a41260ae8c704",
+            "80175f109dcbbf3b",
+            "2885649d36394988"
+        ],
+        "x": 114,
+        "y": 999,
+        "w": 862,
+        "h": 202
+    },
+    {
+        "id": "52a9a8493303b390",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - pilot",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "bef26947b63403d9",
+            "4216c69b83bba334",
+            "0f603b0bbbaaca28",
+            "33d4859b6f1c9b98",
+            "1e9b246f43ea29e4"
+        ],
+        "x": 124,
+        "y": 1239,
+        "w": 332,
+        "h": 142
+    },
+    {
+        "id": "64ac70ae1a75b8a0",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - discovery",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "2947b8e3f9c23bda",
+            "b03565bb0c345e5e",
+            "a59dbabe741bbd3f",
+            "e4f02286ec252dad",
+            "122d5c077df652e7",
+            "65ccdb21a5cc7a4b"
+        ],
+        "x": 124,
+        "y": 1419,
+        "w": 532,
+        "h": 142
+    },
+    {
+        "id": "b0c6571a7a66b307",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - detail",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "3efc72a53e8aeb73",
+            "866f077a8d2a4d5f",
+            "ce769dafaa4474f4",
+            "3350fd457eda24f8",
+            "d531344d089defcd",
+            "6d246ee18008eab6",
+            "f3ce22892ca6034f",
+            "38115d712326bbc9",
+            "049c5c221d2b63d2",
+            "3ac110b844a60aef",
+            "2c6b2aafc5a14d23",
+            "b212e09fe90b5853",
+            "03e6a617517742aa",
+            "cce723282bda90c4",
+            "a54217ca23bef1b9",
+            "3d5e5e4ff92538bf",
+            "492d69200148a565",
+            "71e5c328f69e426a",
+            "c837a3c38158e0e1",
+            "c5566c56bae42eb9",
+            "1e354a82343cab33"
+        ],
+        "x": 124,
+        "y": 1599,
+        "w": 1922,
+        "h": 442
+    },
+    {
+        "id": "ee16f996cbf1d3d4",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - network",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "409fb75f7121072a",
+            "1e58cb258b671c18",
+            "fbe61269bba50d38",
+            "f423423ae63743d9",
+            "ca615bb94844f911",
+            "8a20c979179902eb",
+            "3aa44cfa9197aaf6",
+            "329a56af293003ae",
+            "8f548a4b61127aa0",
+            "ba553c8146b17bf7",
+            "69133b43335dba3d",
+            "5b440dca40c288c0",
+            "01d4759a2a495389"
+        ],
+        "x": 124,
+        "y": 2079,
+        "w": 1232,
+        "h": 262
+    },
+    {
+        "id": "df7710b4b2c4e55b",
+        "type": "ui-base",
+        "name": "Tableau de bord",
+        "path": "/dashboard",
+        "appIcon": "/icon.png",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "headerContent": "none",
+        "navigationStyle": "none",
+        "titleBarStyle": "hidden",
+        "showReconnectNotification": true,
+        "notificationDisplayTime": 1,
+        "showDisconnectNotification": true,
+        "allowInstall": false
+    },
+    {
+        "id": "877e716e64a22cf1",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "f89655b525aee8cd",
+        "type": "ui-page",
+        "name": "detail",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/",
+        "icon": "eye",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "887b3087f3dda2eb",
+        "type": "ui-page",
+        "name": "mqtt",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/mqtt",
+        "icon": "cog",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "117d5289b94a0fc6",
+        "type": "ui-group",
+        "name": "Piloter un nœud",
+        "page": "f89655b525aee8cd",
+        "width": "6",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "4c116fe2697e0aa9",
+        "type": "ui-group",
+        "name": "Configurer MQTT",
+        "page": "887b3087f3dda2eb",
+        "width": "3",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "2c5e094fee5ae877",
+        "type": "mqtt-broker",
+        "name": "MQTT",
+        "broker": "192.168.0.11",
+        "port": "1883",
+        "clientid": "dkzwave",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "4e9812ccd71b0540",
+        "type": "ui-page",
+        "name": "network",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/network",
+        "icon": "z-wave",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "d2d8cc46d8401cd0",
+        "type": "ui-group",
+        "name": "Contrôleur Z-Wave",
+        "page": "4e9812ccd71b0540",
+        "width": "3",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "8a9f06fbdfcb3a49",
+        "type": "ui-group",
+        "name": "Nœuds Z-Wave",
+        "page": "4e9812ccd71b0540",
+        "width": "6",
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "37c8115e7398caa1",
+        "type": "ui-group",
+        "name": "Gérer un nœud",
+        "page": "4e9812ccd71b0540",
+        "width": "3",
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
     },
     {
         "id": "be68f32eed43e834",
@@ -840,7 +1322,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1050,
+        "x": 1030,
         "y": 1020,
         "wires": [
             [
@@ -860,7 +1342,7 @@
             "3efc72a53e8aeb73",
             "409fb75f7121072a"
         ],
-        "x": 1175,
+        "x": 1155,
         "y": 1020,
         "wires": []
     },
@@ -874,7 +1356,7 @@
         "links": [
             "c878eae39f2819f9"
         ],
-        "x": 1015,
+        "x": 995,
         "y": 960,
         "wires": []
     },
@@ -1133,243 +1615,9 @@
             "2947b8e3f9c23bda",
             "f9253a27a6d5654f"
         ],
-        "x": 955,
+        "x": 935,
         "y": 1140,
         "wires": []
-    },
-    {
-        "id": "81be7e57f137d110",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - describe",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "7fa93948f3f8ded7",
-            "eb5ffd2f84ef3149",
-            "c29b89abbe05ec10"
-        ],
-        "x": 94,
-        "y": 39,
-        "w": 620,
-        "h": 82
-    },
-    {
-        "id": "f63dc90f53557f31",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - menu",
-        "style": {
-            "fill": "#6f2fa0",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "c878eae39f2819f9",
-            "159742bdd79b2914",
-            "6ece49950e55fda6",
-            "82e418a1357ac4c4"
-        ],
-        "x": 94,
-        "y": 161,
-        "w": 620,
-        "h": 142
-    },
-    {
-        "id": "d18bf72ce671c484",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "reset",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "7f38fd8e5143c993",
-            "c1afeb4ccab36126"
-        ],
-        "x": 94,
-        "y": 343,
-        "w": 420,
-        "h": 82
-    },
-    {
-        "id": "66f596c3e8603ee8",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - source",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "0cebaeefc2cd112f",
-            "a894980dbf13f95a",
-            "1888911718ddcfce",
-            "ce7e5f4d46721013",
-            "05b6b36180eaeda6",
-            "f7596af7e865aa3f",
-            "2a6ba84b3355bffe",
-            "03006948bff633ee",
-            "21060e985ac7de82",
-            "9ea8343ebd096889",
-            "107b60e5e29cbdc8",
-            "87e8cdafc9b0ad12",
-            "9afd04aabf201039",
-            "89257009e707a5ae",
-            "ebe01c9b2ae9584c",
-            "bff3387ee3a8417a",
-            "c63208c9405b2f64",
-            "6f8562990b904380",
-            "d6f55a7ab996dbe3"
-        ],
-        "x": 94,
-        "y": 465,
-        "w": 1220,
-        "h": 442
-    },
-    {
-        "id": "f6ccc2cfcb220bbe",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - refresh",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "758795890ad399b5",
-            "f9253a27a6d5654f",
-            "0f21ff08060a8117",
-            "5bd5961ce0757640",
-            "699ca1392a2c1da5",
-            "b24a41260ae8c704",
-            "80175f109dcbbf3b",
-            "2885649d36394988"
-        ],
-        "x": 94,
-        "y": 947,
-        "w": 1020,
-        "h": 202
-    },
-    {
-        "id": "52a9a8493303b390",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - pilot",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "bef26947b63403d9",
-            "4216c69b83bba334",
-            "0f603b0bbbaaca28",
-            "33d4859b6f1c9b98",
-            "1e9b246f43ea29e4"
-        ],
-        "x": 94,
-        "y": 1189,
-        "w": 620,
-        "h": 202
-    },
-    {
-        "id": "64ac70ae1a75b8a0",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - discovery",
-        "style": {
-            "fill": "#ff0000",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "2947b8e3f9c23bda",
-            "b03565bb0c345e5e",
-            "a59dbabe741bbd3f",
-            "e4f02286ec252dad",
-            "122d5c077df652e7",
-            "65ccdb21a5cc7a4b"
-        ],
-        "x": 94,
-        "y": 1431,
-        "w": 820,
-        "h": 142
-    },
-    {
-        "id": "b0c6571a7a66b307",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - detail",
-        "style": {
-            "fill": "#6f2fa0",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "3efc72a53e8aeb73",
-            "866f077a8d2a4d5f",
-            "ce769dafaa4474f4",
-            "3350fd457eda24f8",
-            "d531344d089defcd",
-            "6d246ee18008eab6",
-            "f3ce22892ca6034f",
-            "38115d712326bbc9",
-            "049c5c221d2b63d2",
-            "3ac110b844a60aef",
-            "2c6b2aafc5a14d23",
-            "b212e09fe90b5853",
-            "03e6a617517742aa",
-            "cce723282bda90c4",
-            "a54217ca23bef1b9",
-            "3d5e5e4ff92538bf",
-            "492d69200148a565",
-            "71e5c328f69e426a",
-            "c837a3c38158e0e1",
-            "c5566c56bae42eb9",
-            "1e354a82343cab33"
-        ],
-        "x": 94,
-        "y": 1613,
-        "w": 2020,
-        "h": 382
-    },
-    {
-        "id": "ee16f996cbf1d3d4",
-        "type": "group",
-        "z": "48135a54600713e8",
-        "name": "custom - network",
-        "style": {
-            "fill": "#6f2fa0",
-            "fill-opacity": "0.05",
-            "label": true
-        },
-        "nodes": [
-            "409fb75f7121072a",
-            "1e58cb258b671c18",
-            "fbe61269bba50d38",
-            "f423423ae63743d9",
-            "ca615bb94844f911",
-            "8a20c979179902eb",
-            "3aa44cfa9197aaf6",
-            "329a56af293003ae",
-            "8f548a4b61127aa0",
-            "ba553c8146b17bf7",
-            "69133b43335dba3d",
-            "5b440dca40c288c0",
-            "01d4759a2a495389"
-        ],
-        "x": 94,
-        "y": 2035,
-        "w": 1420,
-        "h": 322
     },
     {
         "id": "7fa93948f3f8ded7",
@@ -1377,14 +1625,14 @@
         "z": "48135a54600713e8",
         "g": "81be7e57f137d110",
         "name": "custom - describe",
+        "links": [],
+        "x": 165,
+        "y": 80,
         "wires": [
             [
                 "eb5ffd2f84ef3149"
             ]
-        ],
-        "links": [],
-        "x": 190,
-        "y": 80
+        ]
     },
     {
         "id": "eb5ffd2f84ef3149",
@@ -1392,20 +1640,20 @@
         "z": "48135a54600713e8",
         "g": "81be7e57f137d110",
         "name": "custom - describe",
+        "func": "msg.payload.project = 'dknr-zwave';\n\nmsg.payload.hmi = {\n    'detail': 'Piloter',\n    'network': 'Réseau',\n    'mqtt': 'Configurer'\n};\n\nmsg.payload.zwave = {\n    // command classes not published: protocol and management command classes\n    'skip': [\n        0x59, // Association Group Information\n        0x5a, // Device Reset Locally\n        0x5e, // Z-Wave Plus Info\n        0x6c, // Supervision\n        0x72, // Manufacturer Specific\n        0x73, // Powerlevel\n        0x7a, // Firmware Update Meta Data\n        0x85, // Association\n        0x86, // Version\n        0x8e, // Multi Channel Association\n        0x98, // Security\n        0x9f  // Security 2\n    ],\n    // command classes published as configuration (Home Assistant: disabled by default)\n    'config': [0x70],\n    // command classes published as diagnostic\n    'diagnostic': [0x80, 0x84],\n    // French names of common values: command class _ property\n    'labels': {\n        '37_currentValue': 'Etat',\n        '38_currentValue': 'Niveau',\n        '49_Air temperature': 'Température',\n        '49_Humidity': 'Humidité',\n        '49_Illuminance': 'Luminosité',\n        '49_Power': 'Puissance',\n        '49_Voltage': 'Tension',\n        '49_Ultraviolet': 'UV',\n        '49_Carbon dioxide (CO₂) level': 'CO2',\n        '50_reset': 'Remise à zéro des compteurs',\n        '64_mode': 'Mode du thermostat',\n        '66_state': 'Fonctionnement du thermostat',\n        '67_setpoint': 'Consigne',\n        '98_currentMode': 'Serrure',\n        '98_targetMode': 'Serrure',\n        '102_currentState': 'Porte de garage',\n        '102_position': 'Position',\n        '128_level': 'Batterie',\n        '128_isLow': 'Batterie faible',\n        '132_wakeUpInterval': 'Intervalle de réveil',\n        '135_value': 'Indicateur',\n        'status': 'Etat du nœud',\n        'lastActive': 'Dernière activité'\n    },\n    // sensor device class from unit\n    'unit': {\n        '°C': 'temperature',\n        '°F': 'temperature',\n        'W': 'power',\n        'kW': 'power',\n        'V': 'voltage',\n        'A': 'current',\n        'kWh': 'energy',\n        'Wh': 'energy',\n        'lx': 'illuminance',\n        'Lux': 'illuminance',\n        'hPa': 'pressure',\n        'kPa': 'pressure',\n        'dBm': 'signal_strength'\n    },\n    // Z-Wave units to Home Assistant units\n    'units': {\n        'Lux': 'lx',\n        'lux': 'lx'\n    },\n    // sensor device class from label (regex) and unit\n    'label': [\n        ['humidity', '%', 'humidity'],\n        ['battery|^level$', '%', 'battery'],\n        ['co2|carbon dioxide', 'ppm', 'carbon_dioxide'],\n        ['moisture', '%', 'moisture']\n    ],\n    // binary sensor device class from label (regex)\n    'binary': [\n        ['low battery|islow|battery low', 'battery'],\n        ['motion', 'motion'],\n        ['door|window|contact', 'door'],\n        ['water|leak|flood', 'moisture'],\n        ['smoke', 'smoke'],\n        ['co alarm|carbon monoxide', 'carbon_monoxide'],\n        ['tamper', 'tamper'],\n        ['heat alarm|overheat', 'heat']\n    ],\n    // node status: zwave-js NodeStatus number or Z-Wave JS UI name\n    'status': {\n        '0': 'Unknown',\n        '1': 'Asleep',\n        '2': 'Awake',\n        '3': 'Dead',\n        '4': 'Alive'\n    },\n    'status_fr': {\n        'Unknown': 'Inconnu',\n        'Asleep': 'Endormi',\n        'Awake': 'Réveillé',\n        'Dead': 'Mort',\n        'Alive': 'Vivant'\n    },\n    // controller inclusion state (zwave-js InclusionState)\n    'inclusion': {\n        '0': 'Inactif',\n        '1': 'Inclusion en cours',\n        '2': 'Exclusion en cours',\n        '3': 'Occupé',\n        '4': 'SmartStart'\n    },\n    // Z-Wave JS UI controller as a device: entity: [name, type, access, ha type, ha device class, ha category]\n    'controller': {\n        'state': ['Etat de la passerelle', 'binary', 1, 'binary_sensor', 'connectivity', 'diagnostic'],\n        'inclusion': ['Inclusion', 'binary', 3, 'switch', '', ''],\n        'exclusion': ['Exclusion', 'binary', 3, 'switch', '', ''],\n        'version': ['Version', 'text', 1, 'sensor', '', 'diagnostic']\n    },\n    // node values added to every device\n    'extra': {\n        'status': {\n            'key': 'status', 'name': 'Etat du nœud', 'type': 'enum', 'access': 1, 'group': 'sensor', 'unit': '',\n            'values': ['Inconnu', 'Endormi', 'Réveillé', 'Mort', 'Vivant'], 'invert': false, 'stateless': false,\n            'ha_type': 'sensor', 'ha_device': 'enum', 'ha_state': '', 'ha_category': 'diagnostic', 'ha_enabled': true\n        },\n        'lastActive': {\n            'key': 'lastActive', 'name': 'Dernière activité', 'type': 'text', 'access': 1, 'group': 'sensor', 'unit': '',\n            'invert': false, 'stateless': false,\n            'ha_type': 'sensor', 'ha_device': 'timestamp', 'ha_state': '', 'ha_category': 'diagnostic', 'ha_enabled': true\n        }\n    }\n};\n\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "msg.payload.project = 'dknr-zwave';\n\nmsg.payload.hmi = {\n    'detail': 'Piloter',\n    'network': 'Réseau',\n    'mqtt': 'Configurer'\n};\n\nmsg.payload.zwave = {\n    // command classes not published: protocol and management command classes\n    'skip': [\n        0x59, // Association Group Information\n        0x5a, // Device Reset Locally\n        0x5e, // Z-Wave Plus Info\n        0x6c, // Supervision\n        0x72, // Manufacturer Specific\n        0x73, // Powerlevel\n        0x7a, // Firmware Update Meta Data\n        0x85, // Association\n        0x86, // Version\n        0x8e, // Multi Channel Association\n        0x98, // Security\n        0x9f  // Security 2\n    ],\n    // command classes published as configuration (Home Assistant: disabled by default)\n    'config': [0x70],\n    // command classes published as diagnostic\n    'diagnostic': [0x80, 0x84],\n    // French names of common values: command class _ property\n    'labels': {\n        '37_currentValue': 'Etat',\n        '38_currentValue': 'Niveau',\n        '49_Air temperature': 'Température',\n        '49_Humidity': 'Humidité',\n        '49_Illuminance': 'Luminosité',\n        '49_Power': 'Puissance',\n        '49_Voltage': 'Tension',\n        '49_Ultraviolet': 'UV',\n        '49_Carbon dioxide (CO₂) level': 'CO2',\n        '50_reset': 'Remise à zéro des compteurs',\n        '64_mode': 'Mode du thermostat',\n        '66_state': 'Fonctionnement du thermostat',\n        '67_setpoint': 'Consigne',\n        '98_currentMode': 'Serrure',\n        '98_targetMode': 'Serrure',\n        '102_currentState': 'Porte de garage',\n        '102_position': 'Position',\n        '128_level': 'Batterie',\n        '128_isLow': 'Batterie faible',\n        '132_wakeUpInterval': 'Intervalle de réveil',\n        '135_value': 'Indicateur',\n        'status': 'Etat du nœud',\n        'lastActive': 'Dernière activité'\n    },\n    // sensor device class from unit\n    'unit': {\n        '°C': 'temperature',\n        '°F': 'temperature',\n        'W': 'power',\n        'kW': 'power',\n        'V': 'voltage',\n        'A': 'current',\n        'kWh': 'energy',\n        'Wh': 'energy',\n        'lx': 'illuminance',\n        'Lux': 'illuminance',\n        'hPa': 'pressure',\n        'kPa': 'pressure',\n        'dBm': 'signal_strength'\n    },\n    // Z-Wave units to Home Assistant units\n    'units': {\n        'Lux': 'lx',\n        'lux': 'lx'\n    },\n    // sensor device class from label (regex) and unit\n    'label': [\n        ['humidity', '%', 'humidity'],\n        ['battery|^level$', '%', 'battery'],\n        ['co2|carbon dioxide', 'ppm', 'carbon_dioxide'],\n        ['moisture', '%', 'moisture']\n    ],\n    // binary sensor device class from label (regex)\n    'binary': [\n        ['low battery|islow|battery low', 'battery'],\n        ['motion', 'motion'],\n        ['door|window|contact', 'door'],\n        ['water|leak|flood', 'moisture'],\n        ['smoke', 'smoke'],\n        ['co alarm|carbon monoxide', 'carbon_monoxide'],\n        ['tamper', 'tamper'],\n        ['heat alarm|overheat', 'heat']\n    ],\n    // node status: zwave-js NodeStatus number or Z-Wave JS UI name\n    'status': {\n        '0': 'Unknown',\n        '1': 'Asleep',\n        '2': 'Awake',\n        '3': 'Dead',\n        '4': 'Alive'\n    },\n    'status_fr': {\n        'Unknown': 'Inconnu',\n        'Asleep': 'Endormi',\n        'Awake': 'Réveillé',\n        'Dead': 'Mort',\n        'Alive': 'Vivant'\n    },\n    // controller inclusion state (zwave-js InclusionState)\n    'inclusion': {\n        '0': 'Inactif',\n        '1': 'Inclusion en cours',\n        '2': 'Exclusion en cours',\n        '3': 'Occupé',\n        '4': 'SmartStart'\n    },\n    // Z-Wave JS UI controller as a device: entity: [name, type, access, ha type, ha device class, ha category]\n    'controller': {\n        'state': ['Etat de la passerelle', 'binary', 1, 'binary_sensor', 'connectivity', 'diagnostic'],\n        'inclusion': ['Inclusion', 'binary', 3, 'switch', '', ''],\n        'exclusion': ['Exclusion', 'binary', 3, 'switch', '', ''],\n        'version': ['Version', 'text', 1, 'sensor', '', 'diagnostic']\n    },\n    // node values added to every device\n    'extra': {\n        'status': {\n            'key': 'status', 'name': 'Etat du nœud', 'type': 'enum', 'access': 1, 'group': 'sensor', 'unit': '',\n            'values': ['Inconnu', 'Endormi', 'Réveillé', 'Mort', 'Vivant'], 'invert': false, 'stateless': false,\n            'ha_type': 'sensor', 'ha_device': 'enum', 'ha_state': '', 'ha_category': 'diagnostic', 'ha_enabled': true\n        },\n        'lastActive': {\n            'key': 'lastActive', 'name': 'Dernière activité', 'type': 'text', 'access': 1, 'group': 'sensor', 'unit': '',\n            'invert': false, 'stateless': false,\n            'ha_type': 'sensor', 'ha_device': 'timestamp', 'ha_state': '', 'ha_category': 'diagnostic', 'ha_enabled': true\n        }\n    }\n};\n\nreturn msg;",
+        "x": 330,
+        "y": 80,
         "wires": [
             [
                 "c29b89abbe05ec10"
             ]
-        ],
-        "x": 390,
-        "y": 80
+        ]
     },
     {
         "id": "c29b89abbe05ec10",
@@ -1414,10 +1662,10 @@
         "g": "81be7e57f137d110",
         "name": "custom - describe",
         "mode": "return",
-        "wires": [],
         "links": [],
-        "x": 590,
-        "y": 80
+        "x": 495,
+        "y": 80,
+        "wires": []
     },
     {
         "id": "c878eae39f2819f9",
@@ -1425,43 +1673,43 @@
         "z": "48135a54600713e8",
         "g": "f63dc90f53557f31",
         "name": "custom - menu",
+        "links": [
+            "d3965b3ecbc6aae9"
+        ],
+        "x": 165,
+        "y": 200,
         "wires": [
             [
                 "159742bdd79b2914"
             ]
-        ],
-        "links": [
-            "d3965b3ecbc6aae9"
-        ],
-        "x": 190,
-        "y": 202
+        ]
     },
     {
         "id": "159742bdd79b2914",
         "type": "ui-template",
         "z": "48135a54600713e8",
         "g": "f63dc90f53557f31",
-        "name": "custom - menu",
         "group": "",
         "page": "",
         "ui": "df7710b4b2c4e55b",
+        "name": "custom - menu",
         "order": 0,
         "width": 0,
         "height": 0,
         "head": "",
+        "format": "<template>\n    <Teleport v-if=\"mounted\" to=\"#oe_header\">\n        <v-toolbar class=\"oe_nav\"> \n        <v-btn-group variant=\"outlined\" divided>\n            <v-btn v-if=\"oe_menus.detail\" @click=\"oe_nav('detail')\" :title=\"oe_titles.detail\" icon=\"mdi-eye\"></v-btn> \n            <v-btn v-if=\"oe_menus.network\" @click=\"oe_nav('network')\" :title=\"oe_titles.network\" icon=\"mdi-z-wave\"></v-btn> \n            <v-btn v-if=\"oe_menus.mqtt\" @click=\"oe_nav('mqtt')\" :title=\"oe_titles.mqtt\" icon=\"mdi-cog\"></v-btn> \n        </v-btn-group>\n        <v-toolbar-title :text=\"msg.title\"></v-toolbar-title>\n        <v-btn :href=\"msg.git\"><img height=\"32px\" src=\"/icon.png\" :title=\"msg.full\"></img></v-btn>\n        </v-toolbar>\n    </Teleport>\n</template>\n\n<script>\n    export default {\n        data() {\n            return {\n                oe_menus: { detail: true, network: true, mqtt: true },\n                oe_titles: { detail: '', network: '', mqtt: '' },\n                mounted: false\n            }\n        },\n        mounted() {\n            let div = document.createElement(\"div\");\n            div.id=\"oe_header\";\n            const el = document.body.querySelector(\"#app\").prepend(div);\n            this.mounted = true;\n        },\n        methods: {\n            oe_nav: function (page) {\n                this.send(page)\n            }\n        },\n        watch: {\n            msg: function (msg) {\n                document.documentElement.setAttribute(\"lang\", msg.lang);\n                document.documentElement.setAttribute(\"translate\", \"no\");\n                document.title = msg.title;\n                this.oe_menus = msg.menus;\n                this.oe_titles = msg.titles;\n            }\n        }\n    }\n\n</script>",
         "storeOutMessages": true,
         "passthru": false,
         "resendOnRefresh": true,
         "templateScope": "widget:ui",
         "className": "",
-        "format": "<template>\n    <Teleport v-if=\"mounted\" to=\"#oe_header\">\n        <v-toolbar class=\"oe_nav\"> \n        <v-btn-group variant=\"outlined\" divided>\n            <v-btn v-if=\"oe_menus.detail\" @click=\"oe_nav('detail')\" :title=\"oe_titles.detail\" icon=\"mdi-eye\"></v-btn> \n            <v-btn v-if=\"oe_menus.network\" @click=\"oe_nav('network')\" :title=\"oe_titles.network\" icon=\"mdi-z-wave\"></v-btn> \n            <v-btn v-if=\"oe_menus.mqtt\" @click=\"oe_nav('mqtt')\" :title=\"oe_titles.mqtt\" icon=\"mdi-cog\"></v-btn> \n        </v-btn-group>\n        <v-toolbar-title :text=\"msg.title\"></v-toolbar-title>\n        <v-btn :href=\"msg.git\"><img height=\"32px\" src=\"/icon.png\" :title=\"msg.full\"></img></v-btn>\n        </v-toolbar>\n    </Teleport>\n</template>\n\n<script>\n    export default {\n        data() {\n            return {\n                oe_menus: { detail: true, network: true, mqtt: true },\n                oe_titles: { detail: '', network: '', mqtt: '' },\n                mounted: false\n            }\n        },\n        mounted() {\n            let div = document.createElement(\"div\");\n            div.id=\"oe_header\";\n            const el = document.body.querySelector(\"#app\").prepend(div);\n            this.mounted = true;\n        },\n        methods: {\n            oe_nav: function (page) {\n                this.send(page)\n            }\n        },\n        watch: {\n            msg: function (msg) {\n                document.documentElement.setAttribute(\"lang\", msg.lang);\n                document.documentElement.setAttribute(\"translate\", \"no\");\n                document.title = msg.title;\n                this.oe_menus = msg.menus;\n                this.oe_titles = msg.titles;\n            }\n        }\n    }\n\n</script>",
+        "x": 320,
+        "y": 200,
         "wires": [
             [
                 "6ece49950e55fda6"
             ]
-        ],
-        "x": 390,
-        "y": 202
+        ]
     },
     {
         "id": "6ece49950e55fda6",
@@ -1470,37 +1718,37 @@
         "g": "f63dc90f53557f31",
         "name": "custom - menu",
         "mode": "link",
-        "wires": [],
         "links": [
             "7adf1bcdd6df3b31"
         ],
-        "x": 590,
-        "y": 202
+        "x": 475,
+        "y": 200,
+        "wires": []
     },
     {
         "id": "82e418a1357ac4c4",
         "type": "ui-template",
         "z": "48135a54600713e8",
         "g": "f63dc90f53557f31",
-        "name": "custom - ui - style",
         "group": "",
         "page": "",
         "ui": "df7710b4b2c4e55b",
+        "name": "custom - ui - style",
         "order": 0,
         "width": 0,
         "height": 0,
         "head": "",
+        "format": ".dknr-headers .v-table__wrapper table thead {\n    display: table-header-group !important;\n}\n.dknr-headers tbody td {\n    font-weight: normal !important;\n}",
         "storeOutMessages": true,
         "passthru": true,
         "resendOnRefresh": true,
         "templateScope": "site:style",
         "className": "",
-        "format": ".dknr-headers .v-table__wrapper table thead {\n    display: table-header-group !important;\n}\n.dknr-headers tbody td {\n    font-weight: normal !important;\n}",
+        "x": 330,
+        "y": 260,
         "wires": [
             []
-        ],
-        "x": 390,
-        "y": 262
+        ]
     },
     {
         "id": "7f38fd8e5143c993",
@@ -1524,13 +1772,13 @@
         "topic": "",
         "payload": "",
         "payloadType": "str",
+        "x": 210,
+        "y": 380,
         "wires": [
             [
                 "c1afeb4ccab36126"
             ]
-        ],
-        "x": 190,
-        "y": 384
+        ]
     },
     {
         "id": "c1afeb4ccab36126",
@@ -1538,16 +1786,16 @@
         "z": "48135a54600713e8",
         "g": "d18bf72ce671c484",
         "name": "data",
+        "func": "flow.set('last', { }, 'memoryOnly');\n\nreturn;",
         "outputs": 0,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "flow.set('last', { }, 'memoryOnly');\n\nreturn;",
-        "wires": [],
-        "x": 390,
-        "y": 384
+        "x": 370,
+        "y": 380,
+        "wires": []
     },
     {
         "id": "0cebaeefc2cd112f",
@@ -1555,17 +1803,17 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "custom - source",
+        "links": [
+            "25ce94531dd6fbe4"
+        ],
+        "x": 165,
+        "y": 640,
         "wires": [
             [
                 "a894980dbf13f95a",
                 "03006948bff633ee"
             ]
-        ],
-        "links": [
-            "25ce94531dd6fbe4"
-        ],
-        "x": 190,
-        "y": 506
+        ]
     },
     {
         "id": "a894980dbf13f95a",
@@ -1573,13 +1821,15 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "route",
+        "func": "// Route incoming MQTT messages\n// output 1: Z-Wave JS UI client status or version / 2: API response (topic = api name)\n// output 3: Z-Wave event (topic = source/event) / 4: value or node topic / 5: DKNR command\n\nconst mqtt = global.get('mqtt', 'default') || {};\nconst prefix = typeof mqtt.source === 'string' ? mqtt.source : '';\nconst topic = typeof mqtt.topic === 'string' ? mqtt.topic : '';\nconst t = typeof msg.topic === 'string' ? msg.topic : '';\n\n// DKNR command: topic / set / zwave / id / entity\nif (topic !== '' && t.startsWith(topic + '/set/zwave/')) {\n\n    return [null, null, null, null, msg];\n}\n\nif (prefix === '' || !t.startsWith(prefix + '/')) {\n\n    return;\n}\n\nconst parts = t.slice(prefix.length + 1).split('/');\n\n// write requests and API calls sent by anybody\nif (parts[parts.length - 1] === 'set') {\n\n    return;\n}\n\n// prefix / _CLIENTS / ZWAVE_GATEWAY-<name> / status | version | api / <name>\nif (parts[0] === '_CLIENTS') {\n    if (parts.length < 3) {\n\n        return;\n    }\n    msg.client = parts[1];\n    if (parts.length === 3 && (parts[2] === 'status' || parts[2] === 'version')) {\n        msg.topic = parts[2];\n\n        return [msg, null, null, null, null];\n    }\n    if (parts.length === 4 && parts[2] === 'api') {\n        msg.topic = parts[3];\n\n        return [null, msg, null, null, null];\n    }\n\n    // broadcast, multicast feedback\n    return;\n}\n\n// prefix / _EVENTS / ZWAVE_GATEWAY-<name> / driver | node | controller / event_name\nif (parts[0] === '_EVENTS') {\n    if (parts.length !== 4) {\n\n        return;\n    }\n    msg.client = parts[1];\n    msg.topic = parts[2] + '/' + parts[3];\n\n    return [null, null, msg, null, null];\n}\n\nmsg.topic = parts.join('/');\n\nreturn [null, null, null, msg, null];",
         "outputs": 5,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Route incoming MQTT messages\n// output 1: Z-Wave JS UI client status or version / 2: API response (topic = api name)\n// output 3: Z-Wave event (topic = source/event) / 4: value or node topic / 5: DKNR command\n\nconst mqtt = global.get('mqtt', 'default') || {};\nconst prefix = typeof mqtt.source === 'string' ? mqtt.source : '';\nconst topic = typeof mqtt.topic === 'string' ? mqtt.topic : '';\nconst t = typeof msg.topic === 'string' ? msg.topic : '';\n\n// DKNR command: topic / set / zwave / id / entity\nif (topic !== '' && t.startsWith(topic + '/set/zwave/')) {\n\n    return [null, null, null, null, msg];\n}\n\nif (prefix === '' || !t.startsWith(prefix + '/')) {\n\n    return;\n}\n\nconst parts = t.slice(prefix.length + 1).split('/');\n\n// write requests and API calls sent by anybody\nif (parts[parts.length - 1] === 'set') {\n\n    return;\n}\n\n// prefix / _CLIENTS / ZWAVE_GATEWAY-<name> / status | version | api / <name>\nif (parts[0] === '_CLIENTS') {\n    if (parts.length < 3) {\n\n        return;\n    }\n    msg.client = parts[1];\n    if (parts.length === 3 && (parts[2] === 'status' || parts[2] === 'version')) {\n        msg.topic = parts[2];\n\n        return [msg, null, null, null, null];\n    }\n    if (parts.length === 4 && parts[2] === 'api') {\n        msg.topic = parts[3];\n\n        return [null, msg, null, null, null];\n    }\n\n    // broadcast, multicast feedback\n    return;\n}\n\n// prefix / _EVENTS / ZWAVE_GATEWAY-<name> / driver | node | controller / event_name\nif (parts[0] === '_EVENTS') {\n    if (parts.length !== 4) {\n\n        return;\n    }\n    msg.client = parts[1];\n    msg.topic = parts[2] + '/' + parts[3];\n\n    return [null, null, msg, null, null];\n}\n\nmsg.topic = parts.join('/');\n\nreturn [null, null, null, msg, null];",
+        "x": 290,
+        "y": 640,
         "wires": [
             [
                 "1888911718ddcfce"
@@ -1596,9 +1846,7 @@
             [
                 "2a6ba84b3355bffe"
             ]
-        ],
-        "x": 390,
-        "y": 506
+        ]
     },
     {
         "id": "1888911718ddcfce",
@@ -1606,13 +1854,15 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "client",
+        "func": "// Z-Wave JS UI MQTT client status or version: prefix / _CLIENTS / ZWAVE_GATEWAY-<name> / status | version = {value, time}\n// output 1: controller device updated / output 2: discovery / output 3: API requests / output 4: UI refresh\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n// Z-Wave JS UI controller published as a DKNR device (id: controller), return true when created\nfunction controller(devices, Z) {\n    if (typeof devices.controller === 'object') {\n\n        return false;\n    }\n\n    let entities = {};\n    for (const k in Z.controller || {}) {\n        const c = Z.controller[k];\n        entities[k] = {\n            'key': k,\n            'name': c[0],\n            'type': c[1],\n            'access': c[2],\n            'group': c[2] & 2 ? 'command' : 'sensor',\n            'unit': '',\n            'invert': false,\n            'stateless': false,\n            'value_on': true,\n            'value_off': false,\n            'ha_type': c[3],\n            'ha_device': c[4],\n            'ha_state': '',\n            'ha_category': c[5],\n            'ha_enabled': true\n        };\n    }\n\n    devices.controller = {\n        'id': 'controller',\n        'nodeId': 0,\n        'name': 'Z-Wave JS UI',\n        'loc': '',\n        'manufacturer': 'Z-Wave JS',\n        'product': 'Z-Wave JS UI',\n        'description': 'Passerelle Z-Wave JS UI',\n        'firmware': '',\n        'listening': true,\n        'ready': true,\n        'entities': entities,\n        'values': {},\n        'updated': Date.now()\n    };\n\n    return true;\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n        p = { 'value': p.trim() };\n    }\n}\nif (typeof p !== 'object' || p === null) {\n    p = { 'value': p };\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nlet client = global.get('client', 'memoryOnly') || {};\n\nconst online = p.value === true || p.value === 'true';\n\n// keep the current gateway while it is online\nif (client.id !== msg.client) {\n    if (typeof client.id === 'string' && client.state === true) {\n\n        return;\n    }\n    client = { 'id': msg.client };\n}\n\nlet requests = [];\nif (msg.topic === 'status') {\n    // gateway back online: read nodes and controller\n    if (online && client.state !== true) {\n        requests = [api('getNodes', []), api('getInfo', [])];\n    }\n    client.state = online;\n} else {\n    client.version = typeof p.value === 'string' ? p.value : String(p.value);\n}\n\nglobal.set('client', client, 'memoryOnly');\n\nlet added = controller(devices, Z);\nconst dev = devices.controller;\nif (client.state !== undefined) {\n    dev.values.state = client.state;\n}\nif (client.version !== undefined) {\n    dev.values.version = client.version;\n    if (dev.firmware !== client.version) {\n        dev.firmware = client.version;\n        added = true;\n    }\n}\ndev.updated = Date.now();\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: client.state ? 'green' : 'red', shape: 'dot', text: client.id + (client.version ? ' ' + client.version : '') });\n\nfor (const r of requests) {\n    if (r !== null) {\n        node.send([null, null, r, null]);\n    }\n}\n\nreturn [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, { 'payload': 'controller' }];",
         "outputs": 4,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Z-Wave JS UI MQTT client status or version: prefix / _CLIENTS / ZWAVE_GATEWAY-<name> / status | version = {value, time}\n// output 1: controller device updated / output 2: discovery / output 3: API requests / output 4: UI refresh\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n// Z-Wave JS UI controller published as a DKNR device (id: controller), return true when created\nfunction controller(devices, Z) {\n    if (typeof devices.controller === 'object') {\n\n        return false;\n    }\n\n    let entities = {};\n    for (const k in Z.controller || {}) {\n        const c = Z.controller[k];\n        entities[k] = {\n            'key': k,\n            'name': c[0],\n            'type': c[1],\n            'access': c[2],\n            'group': c[2] & 2 ? 'command' : 'sensor',\n            'unit': '',\n            'invert': false,\n            'stateless': false,\n            'value_on': true,\n            'value_off': false,\n            'ha_type': c[3],\n            'ha_device': c[4],\n            'ha_state': '',\n            'ha_category': c[5],\n            'ha_enabled': true\n        };\n    }\n\n    devices.controller = {\n        'id': 'controller',\n        'nodeId': 0,\n        'name': 'Z-Wave JS UI',\n        'loc': '',\n        'manufacturer': 'Z-Wave JS',\n        'product': 'Z-Wave JS UI',\n        'description': 'Passerelle Z-Wave JS UI',\n        'firmware': '',\n        'listening': true,\n        'ready': true,\n        'entities': entities,\n        'values': {},\n        'updated': Date.now()\n    };\n\n    return true;\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n        p = { 'value': p.trim() };\n    }\n}\nif (typeof p !== 'object' || p === null) {\n    p = { 'value': p };\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nlet client = global.get('client', 'memoryOnly') || {};\n\nconst online = p.value === true || p.value === 'true';\n\n// keep the current gateway while it is online\nif (client.id !== msg.client) {\n    if (typeof client.id === 'string' && client.state === true) {\n\n        return;\n    }\n    client = { 'id': msg.client };\n}\n\nlet requests = [];\nif (msg.topic === 'status') {\n    // gateway back online: read nodes and controller\n    if (online && client.state !== true) {\n        requests = [api('getNodes', []), api('getInfo', [])];\n    }\n    client.state = online;\n} else {\n    client.version = typeof p.value === 'string' ? p.value : String(p.value);\n}\n\nglobal.set('client', client, 'memoryOnly');\n\nlet added = controller(devices, Z);\nconst dev = devices.controller;\nif (client.state !== undefined) {\n    dev.values.state = client.state;\n}\nif (client.version !== undefined) {\n    dev.values.version = client.version;\n    if (dev.firmware !== client.version) {\n        dev.firmware = client.version;\n        added = true;\n    }\n}\ndev.updated = Date.now();\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: client.state ? 'green' : 'red', shape: 'dot', text: client.id + (client.version ? ' ' + client.version : '') });\n\nfor (const r of requests) {\n    if (r !== null) {\n        node.send([null, null, r, null]);\n    }\n}\n\nreturn [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, { 'payload': 'controller' }];",
+        "x": 450,
+        "y": 520,
         "wires": [
             [
                 "21060e985ac7de82"
@@ -1626,9 +1876,7 @@
             [
                 "89257009e707a5ae"
             ]
-        ],
-        "x": 590,
-        "y": 506
+        ]
     },
     {
         "id": "ce7e5f4d46721013",
@@ -1636,13 +1884,15 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "api",
+        "func": "// Z-Wave JS UI API response: prefix / _CLIENTS / client / api / <name> = {success, message, result, origin}\n// output 1: one message per device (topic = device id) / output 2: discovery\n// output 3: MQTT (cleanup, new API requests) / output 4: notification / output 5: UI refresh\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n// Z-Wave JS UI controller published as a DKNR device (id: controller), return true when created\nfunction controller(devices, Z) {\n    if (typeof devices.controller === 'object') {\n\n        return false;\n    }\n\n    let entities = {};\n    for (const k in Z.controller || {}) {\n        const c = Z.controller[k];\n        entities[k] = {\n            'key': k,\n            'name': c[0],\n            'type': c[1],\n            'access': c[2],\n            'group': c[2] & 2 ? 'command' : 'sensor',\n            'unit': '',\n            'invert': false,\n            'stateless': false,\n            'value_on': true,\n            'value_off': false,\n            'ha_type': c[3],\n            'ha_device': c[4],\n            'ha_state': '',\n            'ha_category': c[5],\n            'ha_enabled': true\n        };\n    }\n\n    devices.controller = {\n        'id': 'controller',\n        'nodeId': 0,\n        'name': 'Z-Wave JS UI',\n        'loc': '',\n        'manufacturer': 'Z-Wave JS',\n        'product': 'Z-Wave JS UI',\n        'description': 'Passerelle Z-Wave JS UI',\n        'firmware': '',\n        'listening': true,\n        'ready': true,\n        'entities': entities,\n        'values': {},\n        'updated': Date.now()\n    };\n\n    return true;\n}\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n\n        return;\n    }\n}\nif (typeof p !== 'object' || p === null) {\n\n    return;\n}\n\nlet client = global.get('client', 'memoryOnly') || {};\nif (typeof client.id !== 'string') {\n    client = { 'id': msg.client, 'state': true };\n    global.set('client', client, 'memoryOnly');\n} else if (client.id !== msg.client) {\n\n    return;\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst mqtt = global.get('mqtt', 'default') || {};\nconst name = msg.topic;\nconst mine = typeof p.origin === 'object' && p.origin !== null && p.origin.dknr !== undefined;\nconst args = mine && Array.isArray(p.origin.args) ? p.origin.args : [];\n\nif (p.success !== true) {\n    node.status({ fill: 'red', shape: 'ring', text: name + ' : ' + (p.message || 'erreur') });\n\n    return mine ? [null, null, null, { 'payload': 'Z-Wave JS UI : ' + name + ' : ' + (p.message || 'erreur') }, null] : null;\n}\n\n// ---------------------------------------------------------------- actions\nconst notices = {\n    'startInclusion': 'Inclusion démarrée',\n    'stopInclusion': 'Inclusion arrêtée',\n    'startExclusion': 'Exclusion démarrée',\n    'stopExclusion': 'Exclusion arrêtée',\n    'setNodeName': 'Nœud renommé',\n    'setNodeLocation': 'Emplacement modifié',\n    'removeFailedNode': 'Nœud défaillant supprimé'\n};\n\nif (name !== 'getNodes' && name !== 'getInfo') {\n    if (!mine || notices[name] === undefined) {\n\n        return;\n    }\n    const next = ['setNodeName', 'setNodeLocation', 'removeFailedNode'].includes(name) ? api('getNodes', []) : api('getInfo', []);\n    node.status({ fill: 'green', shape: 'dot', text: name + ' : ok' });\n\n    return [null, null, next, { 'payload': notices[name] + (args.length > 1 && typeof args[1] === 'string' ? ' : ' + args[1] : '') }, null];\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nlet added = controller(devices, Z);\n\n// ---------------------------------------------------------------- controller\nif (name === 'getInfo') {\n    const r = typeof p.result === 'object' && p.result !== null ? p.result : {};\n    const dev = devices.controller;\n    client.info = {\n        'homeid': r.homeid,\n        'controllerId': r.controllerId,\n        'appVersion': r.appVersion,\n        'zwaveVersion': r.zwaveVersion,\n        'status': r.status,\n        'inclusionState': r.inclusionState\n    };\n    global.set('client', client, 'memoryOnly');\n\n    dev.values.inclusion = r.inclusionState === 1;\n    dev.values.exclusion = r.inclusionState === 2;\n    if (typeof r.appVersion === 'string' && r.appVersion !== '') {\n        dev.values.version = r.appVersion;\n        if (dev.firmware !== r.appVersion) {\n            dev.firmware = r.appVersion;\n            added = true;\n        }\n    }\n    dev.updated = Date.now();\n    global.set('devices', devices, 'memoryOnly');\n\n    node.status({ fill: 'green', shape: 'dot', text: 'contrôleur : ' + ((Z.inclusion || {})[String(r.inclusionState)] || '?') });\n\n    return [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, null, { 'payload': 'controller' }];\n}\n\n// ---------------------------------------------------------------- nodes\nif (!Array.isArray(p.result)) {\n\n    return;\n}\n\nconst types = ['boolean', 'number', 'string'];\nconst status = Z.status || {};\nconst statusFr = Z.status_fr || {};\n\nfunction label(v) {\n    // French name only for values without property key (Z-Wave JS labels of keyed values are more precise)\n    const fr = v.propertyKey === undefined || v.propertyKey === null ? (Z.labels || {})[v.commandClass + '_' + (v.propertyName !== undefined ? v.propertyName : v.property)] : undefined;\n    let l = fr || v.label || String(v.propertyName || v.property);\n    if (v.endpoint > 0) {\n        l += ' (canal ' + v.endpoint + ')';\n    }\n\n    return l;\n}\n\nfunction match(rules, text, unit) {\n    for (const r of rules || []) {\n        if (new RegExp(r[0], 'i').test(text) && (r.length < 3 || r[1] === unit)) {\n\n            return r[r.length - 1];\n        }\n    }\n\n    return '';\n}\n\n// Build one DKNR entity from a Z-Wave JS UI value (and its target value)\nfunction entity(v, target) {\n    if (!types.includes(v.type)) {\n\n        return null;\n    }\n\n    const write = target || (v.writeable ? v : null);\n    const access = (v.readable !== false ? 1 : 0) | (write ? 2 : 0);\n    if (!access) {\n\n        return null;\n    }\n\n    const text = [v.label, v.propertyName, v.property, v.propertyKeyName].filter(x => x !== undefined && x !== null).join(' ');\n    const config = (Z.config || []).includes(v.commandClass);\n\n    let def = {\n        'key': key(v),\n        'name': label(v),\n        'access': access,\n        'group': access & 2 ? 'command' : 'sensor',\n        'unit': '',\n        'invert': false,\n        'stateless': v.stateless === true,\n        'write': write ? { 'commandClass': write.commandClass, 'endpoint': write.endpoint || 0, 'property': write.property } : null,\n        'ha_device': '',\n        'ha_state': '',\n        'ha_category': config ? (access & 2 ? 'config' : '') : ((Z.diagnostic || []).includes(v.commandClass) ? (access & 2 ? 'config' : 'diagnostic') : ''),\n        'ha_enabled': !config\n    };\n    if (write && write.propertyKey !== undefined && write.propertyKey !== null) {\n        def.write.propertyKey = write.propertyKey;\n    }\n\n    if (v.type === 'boolean') {\n        def.type = 'binary';\n        def.value_on = true;\n        def.value_off = false;\n        def.display = v.commandClass === 0x25 ? 'state' : '';\n        if (access === 2) {\n            def.ha_type = 'button';\n        } else if (access & 2) {\n            def.ha_type = 'switch';\n        } else {\n            def.ha_type = 'binary_sensor';\n            def.ha_device = match(Z.binary, text);\n        }\n    } else if (v.type === 'number' && Array.isArray(v.states) && v.states.length > 0) {\n        def.type = 'enum';\n        def.states = v.states.map(s => ({ 'text': String(s.text), 'value': s.value }));\n        def.values = [...new Set(def.states.map(s => s.text))];\n        def.ha_type = access & 2 ? 'select' : 'sensor';\n        if (def.ha_type === 'sensor' && !def.stateless) {\n            def.ha_device = 'enum';\n        }\n    } else if (v.type === 'number') {\n        def.type = 'number';\n        def.unit = typeof v.unit === 'string' ? ((Z.units || {})[v.unit] || v.unit) : '';\n        for (const k of ['min', 'max', 'step']) {\n            const m = write && typeof write[k] === 'number' ? write[k] : v[k];\n            if (typeof m === 'number') {\n                def[k] = m;\n            }\n        }\n        def.ha_type = access & 2 ? 'number' : 'sensor';\n        if (def.ha_type === 'sensor') {\n            def.ha_device = match(Z.label, text, def.unit) || (Z.unit || {})[def.unit] || '';\n            if (def.unit !== '' || def.ha_device !== '') {\n                def.ha_state = def.ha_device === 'energy' ? 'total_increasing' : 'measurement';\n            }\n        }\n    } else {\n        def.type = 'text';\n        def.ha_type = access & 2 ? 'text' : 'sensor';\n    }\n\n    return def;\n}\n\nlet list = {};\nlet ids = [];\n\nfor (const n of p.result) {\n    if (typeof n !== 'object' || n === null || typeof n.id !== 'number' || n.virtual === true) {\n\n        continue;\n    }\n\n    if (n.isControllerNode === true) {\n        client.controllerId = n.id;\n\n        continue;\n    }\n\n    const id = String(n.id);\n    const old = devices[id] || {};\n    const raw = typeof n.values === 'object' && n.values !== null ? Object.values(n.values) : [];\n\n    // values index by DKNR key, target values linked to their current value\n    let byKey = {};\n    for (const v of raw) {\n        if (typeof v === 'object' && v !== null && v.commandClass !== undefined) {\n            byKey[key(v)] = v;\n        }\n    }\n    let targets = {};\n    for (const k in byKey) {\n        const v = byKey[k];\n        // Z-Wave JS UI: node.values keys and targetValue are commandClass-endpoint-property[-propertyKey]\n        if (v.isCurrentValue === true && typeof v.targetValue === 'string') {\n            const target = n.values[v.targetValue];\n            if (typeof target === 'object' && target !== null && target.writeable && types.includes(target.type)) {\n                targets[k] = target;\n            }\n        }\n    }\n    const consumed = new Set(Object.values(targets).map(t => key(t)));\n\n    let entities = {};\n    let values = {};\n    for (const k in byKey) {\n        const v = byKey[k];\n        values[k] = v.value;\n        if ((Z.skip || []).includes(v.commandClass) || consumed.has(k)) {\n\n            continue;\n        }\n        const def = entity(v, targets[k]);\n        if (def !== null) {\n            entities[k] = def;\n        }\n    }\n\n    // node status and last activity\n    if (Object.keys(entities).length > 0) {\n        for (const k in Z.extra || {}) {\n            entities[k] = Z.extra[k];\n        }\n    }\n    const st = typeof n.status === 'number' ? status[String(n.status)] : n.status;\n    values.status = statusFr[st] || st || 'Inconnu';\n    if (typeof n.lastActive === 'number' && n.lastActive > 0) {\n        values.lastActive = new Date(n.lastActive).toISOString();\n    }\n\n    devices[id] = {\n        'id': id,\n        'nodeId': n.id,\n        'name': typeof n.name === 'string' && n.name !== '' ? n.name : 'Nœud ' + id,\n        'loc': n.loc || '',\n        'manufacturer': n.manufacturer || '',\n        'product': n.productLabel || '',\n        'description': n.productDescription || '',\n        'firmware': n.firmwareVersion || '',\n        'listening': n.isListening === true || !!n.isFrequentListening, // isFrequentListening: false, '250ms' or '1000ms'\n        'ready': n.ready === true,\n        'failed': n.failed === true,\n        'interview': n.interviewStage || '',\n        'entities': entities,\n        'values': values,\n        'updated': Date.now()\n    };\n\n    const signature = JSON.stringify([devices[id].name, devices[id].product, devices[id].firmware, entities]);\n    if (old.signature !== signature) {\n        added = true;\n    }\n    devices[id].signature = signature;\n    ids.push(id);\n\n    node.send([{ 'topic': id, 'payload': id }, null, null, null, null]);\n}\n\nglobal.set('client', client, 'memoryOnly');\n\n// removed nodes: clear retained DKNR and Home Assistant topics\nfor (const id in devices) {\n    if (id === 'controller' || ids.includes(id)) {\n\n        continue;\n    }\n    added = true;\n    for (const k in devices[id].entities || {}) {\n        const def = devices[id].entities[k];\n        if (mqtt.topic) {\n            node.send([null, null, { 'topic': [mqtt.topic, 'discovery', 'zwave', id, k].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n            node.send([null, null, { 'topic': [mqtt.topic, 'get', 'zwave', id, k].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n        }\n        if (mqtt.homeassistant) {\n            node.send([null, null, { 'topic': [mqtt.homeassistant, def.ha_type, 'zwave', id + '_' + k, 'config'].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n        }\n    }\n    delete devices[id];\n}\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: ids.length + ' nœud(s)' });\n\nreturn [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, null, { 'payload': 'devices' }];",
         "outputs": 5,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Z-Wave JS UI API response: prefix / _CLIENTS / client / api / <name> = {success, message, result, origin}\n// output 1: one message per device (topic = device id) / output 2: discovery\n// output 3: MQTT (cleanup, new API requests) / output 4: notification / output 5: UI refresh\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n// Z-Wave JS UI controller published as a DKNR device (id: controller), return true when created\nfunction controller(devices, Z) {\n    if (typeof devices.controller === 'object') {\n\n        return false;\n    }\n\n    let entities = {};\n    for (const k in Z.controller || {}) {\n        const c = Z.controller[k];\n        entities[k] = {\n            'key': k,\n            'name': c[0],\n            'type': c[1],\n            'access': c[2],\n            'group': c[2] & 2 ? 'command' : 'sensor',\n            'unit': '',\n            'invert': false,\n            'stateless': false,\n            'value_on': true,\n            'value_off': false,\n            'ha_type': c[3],\n            'ha_device': c[4],\n            'ha_state': '',\n            'ha_category': c[5],\n            'ha_enabled': true\n        };\n    }\n\n    devices.controller = {\n        'id': 'controller',\n        'nodeId': 0,\n        'name': 'Z-Wave JS UI',\n        'loc': '',\n        'manufacturer': 'Z-Wave JS',\n        'product': 'Z-Wave JS UI',\n        'description': 'Passerelle Z-Wave JS UI',\n        'firmware': '',\n        'listening': true,\n        'ready': true,\n        'entities': entities,\n        'values': {},\n        'updated': Date.now()\n    };\n\n    return true;\n}\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n\n        return;\n    }\n}\nif (typeof p !== 'object' || p === null) {\n\n    return;\n}\n\nlet client = global.get('client', 'memoryOnly') || {};\nif (typeof client.id !== 'string') {\n    client = { 'id': msg.client, 'state': true };\n    global.set('client', client, 'memoryOnly');\n} else if (client.id !== msg.client) {\n\n    return;\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst mqtt = global.get('mqtt', 'default') || {};\nconst name = msg.topic;\nconst mine = typeof p.origin === 'object' && p.origin !== null && p.origin.dknr !== undefined;\nconst args = mine && Array.isArray(p.origin.args) ? p.origin.args : [];\n\nif (p.success !== true) {\n    node.status({ fill: 'red', shape: 'ring', text: name + ' : ' + (p.message || 'erreur') });\n\n    return mine ? [null, null, null, { 'payload': 'Z-Wave JS UI : ' + name + ' : ' + (p.message || 'erreur') }, null] : null;\n}\n\n// ---------------------------------------------------------------- actions\nconst notices = {\n    'startInclusion': 'Inclusion démarrée',\n    'stopInclusion': 'Inclusion arrêtée',\n    'startExclusion': 'Exclusion démarrée',\n    'stopExclusion': 'Exclusion arrêtée',\n    'setNodeName': 'Nœud renommé',\n    'setNodeLocation': 'Emplacement modifié',\n    'removeFailedNode': 'Nœud défaillant supprimé'\n};\n\nif (name !== 'getNodes' && name !== 'getInfo') {\n    if (!mine || notices[name] === undefined) {\n\n        return;\n    }\n    const next = ['setNodeName', 'setNodeLocation', 'removeFailedNode'].includes(name) ? api('getNodes', []) : api('getInfo', []);\n    node.status({ fill: 'green', shape: 'dot', text: name + ' : ok' });\n\n    return [null, null, next, { 'payload': notices[name] + (args.length > 1 && typeof args[1] === 'string' ? ' : ' + args[1] : '') }, null];\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nlet added = controller(devices, Z);\n\n// ---------------------------------------------------------------- controller\nif (name === 'getInfo') {\n    const r = typeof p.result === 'object' && p.result !== null ? p.result : {};\n    const dev = devices.controller;\n    client.info = {\n        'homeid': r.homeid,\n        'controllerId': r.controllerId,\n        'appVersion': r.appVersion,\n        'zwaveVersion': r.zwaveVersion,\n        'status': r.status,\n        'inclusionState': r.inclusionState\n    };\n    global.set('client', client, 'memoryOnly');\n\n    dev.values.inclusion = r.inclusionState === 1;\n    dev.values.exclusion = r.inclusionState === 2;\n    if (typeof r.appVersion === 'string' && r.appVersion !== '') {\n        dev.values.version = r.appVersion;\n        if (dev.firmware !== r.appVersion) {\n            dev.firmware = r.appVersion;\n            added = true;\n        }\n    }\n    dev.updated = Date.now();\n    global.set('devices', devices, 'memoryOnly');\n\n    node.status({ fill: 'green', shape: 'dot', text: 'contrôleur : ' + ((Z.inclusion || {})[String(r.inclusionState)] || '?') });\n\n    return [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, null, { 'payload': 'controller' }];\n}\n\n// ---------------------------------------------------------------- nodes\nif (!Array.isArray(p.result)) {\n\n    return;\n}\n\nconst types = ['boolean', 'number', 'string'];\nconst status = Z.status || {};\nconst statusFr = Z.status_fr || {};\n\nfunction label(v) {\n    // French name only for values without property key (Z-Wave JS labels of keyed values are more precise)\n    const fr = v.propertyKey === undefined || v.propertyKey === null ? (Z.labels || {})[v.commandClass + '_' + (v.propertyName !== undefined ? v.propertyName : v.property)] : undefined;\n    let l = fr || v.label || String(v.propertyName || v.property);\n    if (v.endpoint > 0) {\n        l += ' (canal ' + v.endpoint + ')';\n    }\n\n    return l;\n}\n\nfunction match(rules, text, unit) {\n    for (const r of rules || []) {\n        if (new RegExp(r[0], 'i').test(text) && (r.length < 3 || r[1] === unit)) {\n\n            return r[r.length - 1];\n        }\n    }\n\n    return '';\n}\n\n// Build one DKNR entity from a Z-Wave JS UI value (and its target value)\nfunction entity(v, target) {\n    if (!types.includes(v.type)) {\n\n        return null;\n    }\n\n    const write = target || (v.writeable ? v : null);\n    const access = (v.readable !== false ? 1 : 0) | (write ? 2 : 0);\n    if (!access) {\n\n        return null;\n    }\n\n    const text = [v.label, v.propertyName, v.property, v.propertyKeyName].filter(x => x !== undefined && x !== null).join(' ');\n    const config = (Z.config || []).includes(v.commandClass);\n\n    let def = {\n        'key': key(v),\n        'name': label(v),\n        'access': access,\n        'group': access & 2 ? 'command' : 'sensor',\n        'unit': '',\n        'invert': false,\n        'stateless': v.stateless === true,\n        'write': write ? { 'commandClass': write.commandClass, 'endpoint': write.endpoint || 0, 'property': write.property } : null,\n        'ha_device': '',\n        'ha_state': '',\n        'ha_category': config ? (access & 2 ? 'config' : '') : ((Z.diagnostic || []).includes(v.commandClass) ? (access & 2 ? 'config' : 'diagnostic') : ''),\n        'ha_enabled': !config\n    };\n    if (write && write.propertyKey !== undefined && write.propertyKey !== null) {\n        def.write.propertyKey = write.propertyKey;\n    }\n\n    if (v.type === 'boolean') {\n        def.type = 'binary';\n        def.value_on = true;\n        def.value_off = false;\n        def.display = v.commandClass === 0x25 ? 'state' : '';\n        if (access === 2) {\n            def.ha_type = 'button';\n        } else if (access & 2) {\n            def.ha_type = 'switch';\n        } else {\n            def.ha_type = 'binary_sensor';\n            def.ha_device = match(Z.binary, text);\n        }\n    } else if (v.type === 'number' && Array.isArray(v.states) && v.states.length > 0) {\n        def.type = 'enum';\n        def.states = v.states.map(s => ({ 'text': String(s.text), 'value': s.value }));\n        def.values = [...new Set(def.states.map(s => s.text))];\n        def.ha_type = access & 2 ? 'select' : 'sensor';\n        if (def.ha_type === 'sensor' && !def.stateless) {\n            def.ha_device = 'enum';\n        }\n    } else if (v.type === 'number') {\n        def.type = 'number';\n        def.unit = typeof v.unit === 'string' ? ((Z.units || {})[v.unit] || v.unit) : '';\n        for (const k of ['min', 'max', 'step']) {\n            const m = write && typeof write[k] === 'number' ? write[k] : v[k];\n            if (typeof m === 'number') {\n                def[k] = m;\n            }\n        }\n        def.ha_type = access & 2 ? 'number' : 'sensor';\n        if (def.ha_type === 'sensor') {\n            def.ha_device = match(Z.label, text, def.unit) || (Z.unit || {})[def.unit] || '';\n            if (def.unit !== '' || def.ha_device !== '') {\n                def.ha_state = def.ha_device === 'energy' ? 'total_increasing' : 'measurement';\n            }\n        }\n    } else {\n        def.type = 'text';\n        def.ha_type = access & 2 ? 'text' : 'sensor';\n    }\n\n    return def;\n}\n\nlet list = {};\nlet ids = [];\n\nfor (const n of p.result) {\n    if (typeof n !== 'object' || n === null || typeof n.id !== 'number' || n.virtual === true) {\n\n        continue;\n    }\n\n    if (n.isControllerNode === true) {\n        client.controllerId = n.id;\n\n        continue;\n    }\n\n    const id = String(n.id);\n    const old = devices[id] || {};\n    const raw = typeof n.values === 'object' && n.values !== null ? Object.values(n.values) : [];\n\n    // values index by DKNR key, target values linked to their current value\n    let byKey = {};\n    for (const v of raw) {\n        if (typeof v === 'object' && v !== null && v.commandClass !== undefined) {\n            byKey[key(v)] = v;\n        }\n    }\n    let targets = {};\n    for (const k in byKey) {\n        const v = byKey[k];\n        // Z-Wave JS UI: node.values keys and targetValue are commandClass-endpoint-property[-propertyKey]\n        if (v.isCurrentValue === true && typeof v.targetValue === 'string') {\n            const target = n.values[v.targetValue];\n            if (typeof target === 'object' && target !== null && target.writeable && types.includes(target.type)) {\n                targets[k] = target;\n            }\n        }\n    }\n    const consumed = new Set(Object.values(targets).map(t => key(t)));\n\n    let entities = {};\n    let values = {};\n    for (const k in byKey) {\n        const v = byKey[k];\n        values[k] = v.value;\n        if ((Z.skip || []).includes(v.commandClass) || consumed.has(k)) {\n\n            continue;\n        }\n        const def = entity(v, targets[k]);\n        if (def !== null) {\n            entities[k] = def;\n        }\n    }\n\n    // node status and last activity\n    if (Object.keys(entities).length > 0) {\n        for (const k in Z.extra || {}) {\n            entities[k] = Z.extra[k];\n        }\n    }\n    const st = typeof n.status === 'number' ? status[String(n.status)] : n.status;\n    values.status = statusFr[st] || st || 'Inconnu';\n    if (typeof n.lastActive === 'number' && n.lastActive > 0) {\n        values.lastActive = new Date(n.lastActive).toISOString();\n    }\n\n    devices[id] = {\n        'id': id,\n        'nodeId': n.id,\n        'name': typeof n.name === 'string' && n.name !== '' ? n.name : 'Nœud ' + id,\n        'loc': n.loc || '',\n        'manufacturer': n.manufacturer || '',\n        'product': n.productLabel || '',\n        'description': n.productDescription || '',\n        'firmware': n.firmwareVersion || '',\n        'listening': n.isListening === true || !!n.isFrequentListening, // isFrequentListening: false, '250ms' or '1000ms'\n        'ready': n.ready === true,\n        'failed': n.failed === true,\n        'interview': n.interviewStage || '',\n        'entities': entities,\n        'values': values,\n        'updated': Date.now()\n    };\n\n    const signature = JSON.stringify([devices[id].name, devices[id].product, devices[id].firmware, entities]);\n    if (old.signature !== signature) {\n        added = true;\n    }\n    devices[id].signature = signature;\n    ids.push(id);\n\n    node.send([{ 'topic': id, 'payload': id }, null, null, null, null]);\n}\n\nglobal.set('client', client, 'memoryOnly');\n\n// removed nodes: clear retained DKNR and Home Assistant topics\nfor (const id in devices) {\n    if (id === 'controller' || ids.includes(id)) {\n\n        continue;\n    }\n    added = true;\n    for (const k in devices[id].entities || {}) {\n        const def = devices[id].entities[k];\n        if (mqtt.topic) {\n            node.send([null, null, { 'topic': [mqtt.topic, 'discovery', 'zwave', id, k].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n            node.send([null, null, { 'topic': [mqtt.topic, 'get', 'zwave', id, k].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n        }\n        if (mqtt.homeassistant) {\n            node.send([null, null, { 'topic': [mqtt.homeassistant, def.ha_type, 'zwave', id + '_' + k, 'config'].join('/'), 'payload': '', 'qos': 0, 'retain': true }, null, null]);\n        }\n    }\n    delete devices[id];\n}\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: ids.length + ' nœud(s)' });\n\nreturn [{ 'topic': 'controller', 'payload': 'controller' }, added ? { 'topic': 'discovery', 'payload': '' } : null, null, null, { 'payload': 'devices' }];",
+        "x": 450,
+        "y": 640,
         "wires": [
             [
                 "21060e985ac7de82"
@@ -1659,9 +1909,7 @@
             [
                 "89257009e707a5ae"
             ]
-        ],
-        "x": 590,
-        "y": 566
+        ]
     },
     {
         "id": "05b6b36180eaeda6",
@@ -1669,13 +1917,15 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "events",
+        "func": "// Z-Wave JS UI events (gateway option \"Send Z-Wave events\"): prefix / _EVENTS / client / source / event = {data: [...]}\n// output 1: device updated (topic = device id) / output 2: nodes refresh needed / output 3: controller info refresh needed\n// output 4: UI refresh\n\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n\n        return;\n    }\n}\nif (typeof p !== 'object' || p === null || !Array.isArray(p.data)) {\n\n    return;\n}\n\nlet client = global.get('client', 'memoryOnly') || {};\nif (typeof client.id !== 'string') {\n    // gateway found through its events: read nodes and controller\n    client = { 'id': msg.client, 'state': true };\n    global.set('client', client, 'memoryOnly');\n    node.send([null, { 'payload': 'getNodes' }, { 'payload': 'getInfo' }, null]);\n} else if (client.id !== msg.client) {\n\n    return;\n}\n\n// events received: shown on the network page\nclient.events = Date.now();\nglobal.set('client', client, 'memoryOnly');\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst data = p.data;\nconst n = typeof data[0] === 'object' && data[0] !== null ? data[0] : {};\nconst id = typeof n.id === 'number' ? String(n.id) : '';\nconst dev = devices[id];\n\nswitch (msg.topic) {\n    case 'node/node_value_updated': {\n        const a = typeof data[1] === 'object' && data[1] !== null ? data[1] : null;\n        if (a === null || a.commandClass === undefined) {\n\n            return;\n        }\n        if (typeof dev !== 'object') {\n\n            return [null, { 'payload': 'getNodes' }, null, null];\n        }\n        const k = key(a);\n        const known = k in dev.values;\n        dev.values[k] = a.newValue !== undefined ? a.newValue : a.value;\n        // a value received from the node is an activity of this node\n        if (!a.stateless || a.newValue !== undefined) {\n            dev.values.lastActive = new Date().toISOString();\n        }\n        dev.updated = Date.now();\n        global.set('devices', devices, 'memoryOnly');\n        node.status({ fill: 'green', shape: 'dot', text: dev.name + ' : ' + k });\n        // stateless values (scenes, notifications) are published again even when unchanged\n        if (typeof dev.entities[k] === 'object' && dev.entities[k].stateless) {\n            flow.set('last[\"' + id + '_' + k + '\"]', undefined, 'memoryOnly');\n        }\n\n        return [{ 'topic': id, 'payload': id }, !known && !(Z.skip || []).includes(a.commandClass) ? { 'payload': 'getNodes' } : null, null, null];\n    }\n\n    case 'node/node_alive':\n    case 'node/node_dead':\n    case 'node/node_sleep':\n    case 'node/node_wakeup': {\n        if (typeof dev !== 'object') {\n\n            return;\n        }\n        const st = { 'node/node_alive': 'Alive', 'node/node_dead': 'Dead', 'node/node_sleep': 'Asleep', 'node/node_wakeup': 'Awake' }[msg.topic];\n        dev.values.status = (Z.status_fr || {})[st] || st;\n        if (st === 'Alive' || st === 'Awake') {\n            dev.values.lastActive = new Date().toISOString();\n        }\n        global.set('devices', devices, 'memoryOnly');\n        node.status({ fill: st === 'Dead' ? 'red' : 'green', shape: 'dot', text: dev.name + ' : ' + st });\n\n        return [{ 'topic': id, 'payload': id }, null, null, { 'payload': 'status' }];\n    }\n\n    case 'node/node_ready':\n    case 'node/node_interview_completed':\n    case 'node/node_value_added':\n    case 'node/node_value_removed':\n    case 'node/node_metadata_updated':\n    case 'controller/node_added':\n    case 'controller/node_removed':\n\n        return [null, { 'payload': 'getNodes' }, null, null];\n\n    case 'controller/inclusion_started':\n    case 'controller/inclusion_stopped':\n    case 'controller/exclusion_started':\n    case 'controller/exclusion_stopped':\n    case 'controller/inclusion_failed':\n    case 'controller/exclusion_failed': {\n        const c = devices.controller;\n        if (typeof c === 'object') {\n            c.values.inclusion = msg.topic === 'controller/inclusion_started';\n            c.values.exclusion = msg.topic === 'controller/exclusion_started';\n            global.set('devices', devices, 'memoryOnly');\n        }\n        node.status({ fill: 'blue', shape: 'dot', text: msg.topic });\n\n        return [typeof c === 'object' ? { 'topic': 'controller', 'payload': 'controller' } : null, null, { 'payload': 'getInfo' }, { 'payload': 'controller' }];\n    }\n\n    case 'driver/driver_ready':\n    case 'driver/all_nodes_ready':\n\n        return [null, { 'payload': 'getNodes' }, { 'payload': 'getInfo' }, null];\n}\n\nreturn;",
         "outputs": 4,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Z-Wave JS UI events (gateway option \"Send Z-Wave events\"): prefix / _EVENTS / client / source / event = {data: [...]}\n// output 1: device updated (topic = device id) / output 2: nodes refresh needed / output 3: controller info refresh needed\n// output 4: UI refresh\n\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n\n        return;\n    }\n}\nif (typeof p !== 'object' || p === null || !Array.isArray(p.data)) {\n\n    return;\n}\n\nlet client = global.get('client', 'memoryOnly') || {};\nif (typeof client.id !== 'string') {\n    // gateway found through its events: read nodes and controller\n    client = { 'id': msg.client, 'state': true };\n    global.set('client', client, 'memoryOnly');\n    node.send([null, { 'payload': 'getNodes' }, { 'payload': 'getInfo' }, null]);\n} else if (client.id !== msg.client) {\n\n    return;\n}\n\n// events received: shown on the network page\nclient.events = Date.now();\nglobal.set('client', client, 'memoryOnly');\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst data = p.data;\nconst n = typeof data[0] === 'object' && data[0] !== null ? data[0] : {};\nconst id = typeof n.id === 'number' ? String(n.id) : '';\nconst dev = devices[id];\n\nswitch (msg.topic) {\n    case 'node/node_value_updated': {\n        const a = typeof data[1] === 'object' && data[1] !== null ? data[1] : null;\n        if (a === null || a.commandClass === undefined) {\n\n            return;\n        }\n        if (typeof dev !== 'object') {\n\n            return [null, { 'payload': 'getNodes' }, null, null];\n        }\n        const k = key(a);\n        const known = k in dev.values;\n        dev.values[k] = a.newValue !== undefined ? a.newValue : a.value;\n        // a value received from the node is an activity of this node\n        if (!a.stateless || a.newValue !== undefined) {\n            dev.values.lastActive = new Date().toISOString();\n        }\n        dev.updated = Date.now();\n        global.set('devices', devices, 'memoryOnly');\n        node.status({ fill: 'green', shape: 'dot', text: dev.name + ' : ' + k });\n        // stateless values (scenes, notifications) are published again even when unchanged\n        if (typeof dev.entities[k] === 'object' && dev.entities[k].stateless) {\n            flow.set('last[\"' + id + '_' + k + '\"]', undefined, 'memoryOnly');\n        }\n\n        return [{ 'topic': id, 'payload': id }, !known && !(Z.skip || []).includes(a.commandClass) ? { 'payload': 'getNodes' } : null, null, null];\n    }\n\n    case 'node/node_alive':\n    case 'node/node_dead':\n    case 'node/node_sleep':\n    case 'node/node_wakeup': {\n        if (typeof dev !== 'object') {\n\n            return;\n        }\n        const st = { 'node/node_alive': 'Alive', 'node/node_dead': 'Dead', 'node/node_sleep': 'Asleep', 'node/node_wakeup': 'Awake' }[msg.topic];\n        dev.values.status = (Z.status_fr || {})[st] || st;\n        if (st === 'Alive' || st === 'Awake') {\n            dev.values.lastActive = new Date().toISOString();\n        }\n        global.set('devices', devices, 'memoryOnly');\n        node.status({ fill: st === 'Dead' ? 'red' : 'green', shape: 'dot', text: dev.name + ' : ' + st });\n\n        return [{ 'topic': id, 'payload': id }, null, null, { 'payload': 'status' }];\n    }\n\n    case 'node/node_ready':\n    case 'node/node_interview_completed':\n    case 'node/node_value_added':\n    case 'node/node_value_removed':\n    case 'node/node_metadata_updated':\n    case 'controller/node_added':\n    case 'controller/node_removed':\n\n        return [null, { 'payload': 'getNodes' }, null, null];\n\n    case 'controller/inclusion_started':\n    case 'controller/inclusion_stopped':\n    case 'controller/exclusion_started':\n    case 'controller/exclusion_stopped':\n    case 'controller/inclusion_failed':\n    case 'controller/exclusion_failed': {\n        const c = devices.controller;\n        if (typeof c === 'object') {\n            c.values.inclusion = msg.topic === 'controller/inclusion_started';\n            c.values.exclusion = msg.topic === 'controller/exclusion_started';\n            global.set('devices', devices, 'memoryOnly');\n        }\n        node.status({ fill: 'blue', shape: 'dot', text: msg.topic });\n\n        return [typeof c === 'object' ? { 'topic': 'controller', 'payload': 'controller' } : null, null, { 'payload': 'getInfo' }, { 'payload': 'controller' }];\n    }\n\n    case 'driver/driver_ready':\n    case 'driver/all_nodes_ready':\n\n        return [null, { 'payload': 'getNodes' }, { 'payload': 'getInfo' }, null];\n}\n\nreturn;",
+        "x": 450,
+        "y": 760,
         "wires": [
             [
                 "21060e985ac7de82"
@@ -1689,9 +1939,7 @@
             [
                 "89257009e707a5ae"
             ]
-        ],
-        "x": 590,
-        "y": 626
+        ]
     },
     {
         "id": "f7596af7e865aa3f",
@@ -1699,13 +1947,15 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "values",
+        "func": "// Z-Wave JS UI value and node topics\n// - value with \"entire ValueID\" payload: {nodeId, commandClass, endpoint, property, propertyKey, value, ...}\n// - node status: <node topic>/status = {value, status, nodeId}\n// - node info: <node topic>/nodeinfo = {id, name, loc, ...}\n// - last activity: <node topic>/lastActive = {time, value}\n// output 1: device updated (topic = device id) / output 2: nodes refresh needed / output 3: UI refresh\n\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n        p = { 'value': p };\n    }\n}\nif (typeof p !== 'object' || p === null || Array.isArray(p)) {\n    p = { 'value': p };\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst topics = global.get('topics', 'memoryOnly') || {};\nconst t = msg.topic;\nconst status = Z.status || {};\nconst statusFr = Z.status_fr || {};\n\nfunction base(suffix) {\n    return t.slice(0, -(suffix.length + 1));\n}\n\n// node status\nif (t.endsWith('/status') && typeof p.nodeId === 'number') {\n    const id = String(p.nodeId);\n    topics[base('status')] = id;\n    global.set('topics', topics, 'memoryOnly');\n    if (typeof devices[id] !== 'object' || typeof p.status !== 'string') {\n\n        return;\n    }\n    const st = statusFr[p.status] || statusFr[status[p.status]] || p.status;\n    devices[id].values.status = st;\n    global.set('devices', devices, 'memoryOnly');\n    node.status({ fill: 'green', shape: 'dot', text: devices[id].name + ' : ' + st });\n\n    return [{ 'topic': id, 'payload': id }, null, { 'payload': 'status' }];\n}\n\n// node information\nif (t.endsWith('/nodeinfo') && typeof p.id === 'number') {\n    const id = String(p.id);\n    topics[base('nodeinfo')] = id;\n    global.set('topics', topics, 'memoryOnly');\n    const dev = devices[id];\n    const name = typeof p.name === 'string' && p.name !== '' ? p.name : 'Nœud ' + id;\n\n    // unknown node or renamed node: read all nodes again\n    if (p.isControllerNode !== true && (typeof dev !== 'object' || dev.name !== name || dev.loc !== (p.loc || ''))) {\n\n        return [null, { 'payload': 'getNodes' }, null];\n    }\n\n    return;\n}\n\n// node last activity\nif (t.endsWith('/lastActive')) {\n    const id = topics[base('lastActive')];\n    const time = typeof p.value === 'number' ? p.value : Number(p.value);\n    if (id === undefined || typeof devices[id] !== 'object' || !time) {\n\n        return;\n    }\n    devices[id].values.lastActive = new Date(time).toISOString();\n    global.set('devices', devices, 'memoryOnly');\n\n    return [{ 'topic': id, 'payload': id }, null, null];\n}\n\n// value with entire ValueID payload\nif (typeof p.nodeId !== 'number' || p.commandClass === undefined || p.property === undefined || !('value' in p)) {\n\n    return;\n}\n\nconst id = String(p.nodeId);\nconst dev = devices[id];\nif (typeof dev !== 'object') {\n\n    return [null, { 'payload': 'getNodes' }, null];\n}\n\nconst k = key(p);\nconst known = k in dev.values;\ndev.values[k] = p.value;\ndev.updated = Date.now();\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: dev.name + ' : ' + k });\n// stateless values (scenes, notifications) are published again even when unchanged\nif (typeof dev.entities[k] === 'object' && dev.entities[k].stateless) {\n    flow.set('last[\"' + id + '_' + k + '\"]', undefined, 'memoryOnly');\n}\n\n// a value that was not in the nodes list (notification, value added later)\nif (!known && !(Z.skip || []).includes(p.commandClass)) {\n\n    return [{ 'topic': id, 'payload': id }, { 'payload': 'getNodes' }, null];\n}\n\nreturn [{ 'topic': id, 'payload': id }, null, null];",
         "outputs": 3,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Z-Wave JS UI value and node topics\n// - value with \"entire ValueID\" payload: {nodeId, commandClass, endpoint, property, propertyKey, value, ...}\n// - node status: <node topic>/status = {value, status, nodeId}\n// - node info: <node topic>/nodeinfo = {id, name, loc, ...}\n// - last activity: <node topic>/lastActive = {time, value}\n// output 1: device updated (topic = device id) / output 2: nodes refresh needed / output 3: UI refresh\n\n// DKNR entity name of a Z-Wave value: commandClass _ endpoint _ property [_ propertyKey]\nfunction key(v) {\n    let k = [v.commandClass, v.endpoint || 0, v.property];\n    if (v.propertyKey !== undefined && v.propertyKey !== null) {\n        k.push(v.propertyKey);\n    }\n\n    return k.map(p => String(p).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '')).join('_');\n}\n\nlet p = msg.payload;\nif (Buffer.isBuffer(p)) {\n    p = p.toString();\n}\nif (typeof p === 'string') {\n    try {\n        p = JSON.parse(p);\n    } catch (e) {\n        p = { 'value': p };\n    }\n}\nif (typeof p !== 'object' || p === null || Array.isArray(p)) {\n    p = { 'value': p };\n}\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst topics = global.get('topics', 'memoryOnly') || {};\nconst t = msg.topic;\nconst status = Z.status || {};\nconst statusFr = Z.status_fr || {};\n\nfunction base(suffix) {\n    return t.slice(0, -(suffix.length + 1));\n}\n\n// node status\nif (t.endsWith('/status') && typeof p.nodeId === 'number') {\n    const id = String(p.nodeId);\n    topics[base('status')] = id;\n    global.set('topics', topics, 'memoryOnly');\n    if (typeof devices[id] !== 'object' || typeof p.status !== 'string') {\n\n        return;\n    }\n    const st = statusFr[p.status] || statusFr[status[p.status]] || p.status;\n    devices[id].values.status = st;\n    global.set('devices', devices, 'memoryOnly');\n    node.status({ fill: 'green', shape: 'dot', text: devices[id].name + ' : ' + st });\n\n    return [{ 'topic': id, 'payload': id }, null, { 'payload': 'status' }];\n}\n\n// node information\nif (t.endsWith('/nodeinfo') && typeof p.id === 'number') {\n    const id = String(p.id);\n    topics[base('nodeinfo')] = id;\n    global.set('topics', topics, 'memoryOnly');\n    const dev = devices[id];\n    const name = typeof p.name === 'string' && p.name !== '' ? p.name : 'Nœud ' + id;\n\n    // unknown node or renamed node: read all nodes again\n    if (p.isControllerNode !== true && (typeof dev !== 'object' || dev.name !== name || dev.loc !== (p.loc || ''))) {\n\n        return [null, { 'payload': 'getNodes' }, null];\n    }\n\n    return;\n}\n\n// node last activity\nif (t.endsWith('/lastActive')) {\n    const id = topics[base('lastActive')];\n    const time = typeof p.value === 'number' ? p.value : Number(p.value);\n    if (id === undefined || typeof devices[id] !== 'object' || !time) {\n\n        return;\n    }\n    devices[id].values.lastActive = new Date(time).toISOString();\n    global.set('devices', devices, 'memoryOnly');\n\n    return [{ 'topic': id, 'payload': id }, null, null];\n}\n\n// value with entire ValueID payload\nif (typeof p.nodeId !== 'number' || p.commandClass === undefined || p.property === undefined || !('value' in p)) {\n\n    return;\n}\n\nconst id = String(p.nodeId);\nconst dev = devices[id];\nif (typeof dev !== 'object') {\n\n    return [null, { 'payload': 'getNodes' }, null];\n}\n\nconst k = key(p);\nconst known = k in dev.values;\ndev.values[k] = p.value;\ndev.updated = Date.now();\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: dev.name + ' : ' + k });\n// stateless values (scenes, notifications) are published again even when unchanged\nif (typeof dev.entities[k] === 'object' && dev.entities[k].stateless) {\n    flow.set('last[\"' + id + '_' + k + '\"]', undefined, 'memoryOnly');\n}\n\n// a value that was not in the nodes list (notification, value added later)\nif (!known && !(Z.skip || []).includes(p.commandClass)) {\n\n    return [{ 'topic': id, 'payload': id }, { 'payload': 'getNodes' }, null];\n}\n\nreturn [{ 'topic': id, 'payload': id }, null, null];",
+        "x": 450,
+        "y": 840,
         "wires": [
             [
                 "21060e985ac7de82"
@@ -1716,9 +1966,7 @@
             [
                 "89257009e707a5ae"
             ]
-        ],
-        "x": 590,
-        "y": 686
+        ]
     },
     {
         "id": "2a6ba84b3355bffe",
@@ -1726,20 +1974,20 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "control in",
+        "func": "// DKNR command: topic / set / zwave / id / entity = value\n\nconst path = msg.topic.split('/');\nif (path.length < 5) {\n\n    return;\n}\n\nconst property = path.pop();\nconst id = path.pop();\nlet value = msg.payload;\nif (Buffer.isBuffer(value)) {\n    value = value.toString();\n}\n\nnode.status({ text: id + ' - ' + property + ' - ' + value });\n\nreturn {\n    'topic': id,\n    'payload': {\n        'id': id,\n        'property': property,\n        'value': value\n    }\n};",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// DKNR command: topic / set / zwave / id / entity = value\n\nconst path = msg.topic.split('/');\nif (path.length < 5) {\n\n    return;\n}\n\nconst property = path.pop();\nconst id = path.pop();\nlet value = msg.payload;\nif (Buffer.isBuffer(value)) {\n    value = value.toString();\n}\n\nnode.status({ text: id + ' - ' + property + ' - ' + value });\n\nreturn {\n    'topic': id,\n    'payload': {\n        'id': id,\n        'property': property,\n        'value': value\n    }\n};",
+        "x": 460,
+        "y": 940,
         "wires": [
             [
                 "6f8562990b904380"
             ]
-        ],
-        "x": 590,
-        "y": 746
+        ]
     },
     {
         "id": "03006948bff633ee",
@@ -1755,9 +2003,9 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "wires": [],
-        "x": 390,
-        "y": 806
+        "x": 240,
+        "y": 700,
+        "wires": []
     },
     {
         "id": "21060e985ac7de82",
@@ -1777,13 +2025,13 @@
         "bytopic": "topic",
         "topic": "topic",
         "outputs": 1,
+        "x": 630,
+        "y": 700,
         "wires": [
             [
                 "9ea8343ebd096889"
             ]
-        ],
-        "x": 790,
-        "y": 686
+        ]
     },
     {
         "id": "9ea8343ebd096889",
@@ -1791,20 +2039,20 @@
         "z": "48135a54600713e8",
         "g": "66f596c3e8603ee8",
         "name": "mqtt",
+        "func": "// Publish changed values of a device to DKNR MQTT topic: topic / get / zwave / id / entity\n\n// Z-Wave value to DKNR value\nfunction value(dev, def) {\n    const raw = dev.values[def.key];\n    if (raw === undefined || raw === null) {\n\n        return undefined;\n    }\n    switch (def.type) {\n        case 'binary':\n            if (raw === def.value_on) {\n\n                return 'ON';\n            }\n            if (raw === def.value_off) {\n\n                return 'OFF';\n            }\n\n            return undefined;\n        case 'number':\n            if (typeof raw === 'number') {\n\n                return raw;\n            }\n\n            return raw === '' || isNaN(Number(raw)) ? undefined : Number(raw);\n        case 'enum':\n            if (Array.isArray(def.states)) {\n                const s = def.states.find(s => s.value === raw || String(s.value) === String(raw));\n                if (s) {\n\n                    return s.text;\n                }\n            }\n\n            return String(raw);\n        default:\n\n            return typeof raw === 'object' ? JSON.stringify(raw) : String(raw);\n    }\n}\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'zwave';\nconst id = msg.topic;\nconst dev = devices[id];\n\nif (!enabled || topic === '' || typeof dev !== 'object') {\n\n    return;\n}\n\nfor (const k in dev.entities) {\n    const def = dev.entities[k];\n    const v = value(dev, def);\n    if (v === undefined) {\n\n        continue;\n    }\n\n    const last = 'last[\"' + id + '_' + k + '\"]';\n    if (flow.get(last, 'memoryOnly') === v) {\n\n        continue;\n    }\n    flow.set(last, v, 'memoryOnly');\n\n    node.send({\n        'topic': [topic, 'get', source, id, k].join('/'),\n        'payload': v,\n        'qos': 0,\n        'retain': !def.stateless\n    });\n}\n\nreturn;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Publish changed values of a device to DKNR MQTT topic: topic / get / zwave / id / entity\n\n// Z-Wave value to DKNR value\nfunction value(dev, def) {\n    const raw = dev.values[def.key];\n    if (raw === undefined || raw === null) {\n\n        return undefined;\n    }\n    switch (def.type) {\n        case 'binary':\n            if (raw === def.value_on) {\n\n                return 'ON';\n            }\n            if (raw === def.value_off) {\n\n                return 'OFF';\n            }\n\n            return undefined;\n        case 'number':\n            if (typeof raw === 'number') {\n\n                return raw;\n            }\n\n            return raw === '' || isNaN(Number(raw)) ? undefined : Number(raw);\n        case 'enum':\n            if (Array.isArray(def.states)) {\n                const s = def.states.find(s => s.value === raw || String(s.value) === String(raw));\n                if (s) {\n\n                    return s.text;\n                }\n            }\n\n            return String(raw);\n        default:\n\n            return typeof raw === 'object' ? JSON.stringify(raw) : String(raw);\n    }\n}\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'zwave';\nconst id = msg.topic;\nconst dev = devices[id];\n\nif (!enabled || topic === '' || typeof dev !== 'object') {\n\n    return;\n}\n\nfor (const k in dev.entities) {\n    const def = dev.entities[k];\n    const v = value(dev, def);\n    if (v === undefined) {\n\n        continue;\n    }\n\n    const last = 'last[\"' + id + '_' + k + '\"]';\n    if (flow.get(last, 'memoryOnly') === v) {\n\n        continue;\n    }\n    flow.set(last, v, 'memoryOnly');\n\n    node.send({\n        'topic': [topic, 'get', source, id, k].join('/'),\n        'payload': v,\n        'qos': 0,\n        'retain': !def.stateless\n    });\n}\n\nreturn;",
+        "x": 790,
+        "y": 700,
         "wires": [
             [
                 "107b60e5e29cbdc8"
             ]
-        ],
-        "x": 990,
-        "y": 686
+        ]
     },
     {
         "id": "107b60e5e29cbdc8",
@@ -1813,12 +2061,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - mqtt",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 1190,
-        "y": 686
+        "x": 915,
+        "y": 700,
+        "wires": []
     },
     {
         "id": "87e8cdafc9b0ad12",
@@ -1838,13 +2086,13 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
+        "x": 630,
+        "y": 580,
         "wires": [
             [
                 "9afd04aabf201039"
             ]
-        ],
-        "x": 790,
-        "y": 566
+        ]
     },
     {
         "id": "9afd04aabf201039",
@@ -1853,12 +2101,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - discovery",
         "mode": "link",
-        "wires": [],
         "links": [
             "2947b8e3f9c23bda"
         ],
-        "x": 990,
-        "y": 566
+        "x": 755,
+        "y": 580,
+        "wires": []
     },
     {
         "id": "89257009e707a5ae",
@@ -1878,13 +2126,13 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
+        "x": 630,
+        "y": 640,
         "wires": [
             [
                 "ebe01c9b2ae9584c"
             ]
-        ],
-        "x": 790,
-        "y": 626
+        ]
     },
     {
         "id": "ebe01c9b2ae9584c",
@@ -1893,12 +2141,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - network",
         "mode": "link",
-        "wires": [],
         "links": [
             "409fb75f7121072a"
         ],
-        "x": 990,
-        "y": 626
+        "x": 755,
+        "y": 640,
+        "wires": []
     },
     {
         "id": "bff3387ee3a8417a",
@@ -1907,12 +2155,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - request",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 790,
-        "y": 506
+        "x": 595,
+        "y": 520,
+        "wires": []
     },
     {
         "id": "c63208c9405b2f64",
@@ -1921,12 +2169,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - error",
         "mode": "link",
-        "wires": [],
         "links": [
             "fc147ee782462bbe"
         ],
-        "x": 790,
-        "y": 746
+        "x": 595,
+        "y": 760,
+        "wires": []
     },
     {
         "id": "6f8562990b904380",
@@ -1935,12 +2183,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - control",
         "mode": "link",
-        "wires": [],
         "links": [
             "bef26947b63403d9"
         ],
-        "x": 790,
-        "y": 806
+        "x": 595,
+        "y": 940,
+        "wires": []
     },
     {
         "id": "d6f55a7ab996dbe3",
@@ -1949,12 +2197,12 @@
         "g": "66f596c3e8603ee8",
         "name": "custom - source - refresh",
         "mode": "link",
-        "wires": [],
         "links": [
             "758795890ad399b5"
         ],
-        "x": 790,
-        "y": 866
+        "x": 595,
+        "y": 840,
+        "wires": []
     },
     {
         "id": "758795890ad399b5",
@@ -1962,16 +2210,16 @@
         "z": "48135a54600713e8",
         "g": "f6ccc2cfcb220bbe",
         "name": "custom - refresh",
+        "links": [
+            "d6f55a7ab996dbe3"
+        ],
+        "x": 175,
+        "y": 1040,
         "wires": [
             [
                 "699ca1392a2c1da5"
             ]
-        ],
-        "links": [
-            "d6f55a7ab996dbe3"
-        ],
-        "x": 190,
-        "y": 988
+        ]
     },
     {
         "id": "f9253a27a6d5654f",
@@ -1979,16 +2227,16 @@
         "z": "48135a54600713e8",
         "g": "f6ccc2cfcb220bbe",
         "name": "custom - refresh - settings",
+        "links": [
+            "ca5c502dcbc1ee15"
+        ],
+        "x": 175,
+        "y": 1160,
         "wires": [
             [
                 "0f21ff08060a8117"
             ]
-        ],
-        "links": [
-            "ca5c502dcbc1ee15"
-        ],
-        "x": 190,
-        "y": 1108
+        ]
     },
     {
         "id": "0f21ff08060a8117",
@@ -1996,11 +2244,6 @@
         "z": "48135a54600713e8",
         "g": "f6ccc2cfcb220bbe",
         "name": "getNodes",
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
         "rules": [
             {
                 "t": "set",
@@ -2010,13 +2253,18 @@
                 "tot": "str"
             }
         ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 300,
+        "y": 1160,
         "wires": [
             [
                 "699ca1392a2c1da5"
             ]
-        ],
-        "x": 390,
-        "y": 1108
+        ]
     },
     {
         "id": "5bd5961ce0757640",
@@ -2040,13 +2288,13 @@
         "topic": "",
         "payload": "getNodes",
         "payloadType": "str",
+        "x": 210,
+        "y": 1100,
         "wires": [
             [
                 "699ca1392a2c1da5"
             ]
-        ],
-        "x": 190,
-        "y": 1048
+        ]
     },
     {
         "id": "699ca1392a2c1da5",
@@ -2054,11 +2302,6 @@
         "z": "48135a54600713e8",
         "g": "f6ccc2cfcb220bbe",
         "name": "topic",
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
         "rules": [
             {
                 "t": "set",
@@ -2068,13 +2311,18 @@
                 "tot": "msg"
             }
         ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 470,
+        "y": 1040,
         "wires": [
             [
                 "b24a41260ae8c704"
             ]
-        ],
-        "x": 390,
-        "y": 988
+        ]
     },
     {
         "id": "b24a41260ae8c704",
@@ -2094,13 +2342,13 @@
         "bytopic": "topic",
         "topic": "topic",
         "outputs": 1,
+        "x": 630,
+        "y": 1040,
         "wires": [
             [
                 "80175f109dcbbf3b"
             ]
-        ],
-        "x": 590,
-        "y": 988
+        ]
     },
     {
         "id": "80175f109dcbbf3b",
@@ -2108,20 +2356,20 @@
         "z": "48135a54600713e8",
         "g": "f6ccc2cfcb220bbe",
         "name": "request",
+        "func": "// Ask Z-Wave JS UI for nodes (getNodes) or controller information (getInfo)\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nif (msg.payload !== 'getNodes' && msg.payload !== 'getInfo') {\n\n    return;\n}\n\nconst request = api(msg.payload, []);\nif (request === null) {\n    node.status({ fill: 'red', shape: 'ring', text: 'passerelle Z-Wave JS UI inconnue' });\n\n    return;\n}\n\nnode.status({ fill: 'blue', shape: 'dot', text: msg.payload });\n\nreturn request;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Ask Z-Wave JS UI for nodes (getNodes) or controller information (getInfo)\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nif (msg.payload !== 'getNodes' && msg.payload !== 'getInfo') {\n\n    return;\n}\n\nconst request = api(msg.payload, []);\nif (request === null) {\n    node.status({ fill: 'red', shape: 'ring', text: 'passerelle Z-Wave JS UI inconnue' });\n\n    return;\n}\n\nnode.status({ fill: 'blue', shape: 'dot', text: msg.payload });\n\nreturn request;",
+        "x": 800,
+        "y": 1040,
         "wires": [
             [
                 "2885649d36394988"
             ]
-        ],
-        "x": 790,
-        "y": 988
+        ]
     },
     {
         "id": "2885649d36394988",
@@ -2130,12 +2378,12 @@
         "g": "f6ccc2cfcb220bbe",
         "name": "custom - refresh - mqtt",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 990,
-        "y": 988
+        "x": 935,
+        "y": 1040,
+        "wires": []
     },
     {
         "id": "bef26947b63403d9",
@@ -2143,18 +2391,18 @@
         "z": "48135a54600713e8",
         "g": "52a9a8493303b390",
         "name": "custom - pilot",
-        "wires": [
-            [
-                "4216c69b83bba334"
-            ]
-        ],
         "links": [
             "6f8562990b904380",
             "cce723282bda90c4",
             "8a20c979179902eb"
         ],
-        "x": 190,
-        "y": 1230
+        "x": 165,
+        "y": 1340,
+        "wires": [
+            [
+                "4216c69b83bba334"
+            ]
+        ]
     },
     {
         "id": "4216c69b83bba334",
@@ -2162,13 +2410,15 @@
         "z": "48135a54600713e8",
         "g": "52a9a8493303b390",
         "name": "pilot",
+        "func": "// Send a value to a node through Z-Wave JS UI writeValue API\n// input payload: {id, property (DKNR entity), value}\n// output 1: Z-Wave JS UI API request / output 2: error notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst p = msg.payload || {};\nconst dev = devices[p.id];\n\nfunction error(text) {\n    node.status({ fill: 'red', shape: 'ring', text: text });\n\n    return [null, { 'payload': text }];\n}\n\nif (typeof dev !== 'object') {\n\n    return error('Nœud inconnu : ' + p.id);\n}\n\nconst def = dev.entities[p.property];\nif (typeof def !== 'object' || !(def.access & 2)) {\n\n    return error(dev.name + ' : ' + p.property + ' non pilotable');\n}\n\nconst raw = p.value === undefined || p.value === null ? '' : p.value;\nconst text = String(raw).trim();\nlet value;\n\nswitch (def.type) {\n    case 'binary': {\n        const v = text.toUpperCase();\n        if (def.ha_type === 'button') {\n            value = true;\n        } else if (['ON', '1', 'TRUE'].includes(v) || raw === true) {\n            value = true;\n        } else if (['OFF', '0', 'FALSE'].includes(v) || raw === false) {\n            value = false;\n        } else if (v === 'TOGGLE') {\n            value = dev.values[def.key] !== true;\n        }\n        break;\n    }\n    case 'number': {\n        const n = typeof raw === 'number' ? raw : Number(text.replace(',', '.'));\n        if (text !== '' && !isNaN(n)) {\n            value = n;\n            if (typeof def.min === 'number' && value < def.min) {\n                value = def.min;\n            }\n            if (typeof def.max === 'number' && value > def.max) {\n                value = def.max;\n            }\n        }\n        break;\n    }\n    case 'enum': {\n        // by label or by value\n        const s = (def.states || []).find(s => s.text.toLowerCase() === text.toLowerCase()) || (def.states || []).find(s => String(s.value) === text);\n        if (s) {\n            value = s.value;\n        }\n        break;\n    }\n    default:\n        value = text;\n}\n\nif (value === undefined) {\n\n    return error(dev.name + ' : valeur ' + text + ' refusée pour ' + def.name);\n}\n\nlet request = null;\n\n// Z-Wave JS UI controller\nif (p.id === 'controller') {\n    const calls = {\n        'inclusion': value ? ['startInclusion', [0, {}]] : ['stopInclusion', []],\n        'exclusion': value ? ['startExclusion', []] : ['stopExclusion', []]\n    };\n    if (calls[p.property] === undefined) {\n\n        return error('Commande de la passerelle inconnue');\n    }\n    request = api(calls[p.property][0], calls[p.property][1]);\n} else {\n    request = api('writeValue', [{ 'nodeId': dev.nodeId, ...def.write }, value]);\n}\n\nif (request === null) {\n\n    return error('Passerelle Z-Wave JS UI inconnue, vérifiez la configuration MQTT de Z-Wave JS UI');\n}\n\nnode.status({ fill: 'blue', shape: 'dot', text: dev.name + ' - ' + p.property + ' - ' + value });\n\nreturn [request, null];",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Send a value to a node through Z-Wave JS UI writeValue API\n// input payload: {id, property (DKNR entity), value}\n// output 1: Z-Wave JS UI API request / output 2: error notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst p = msg.payload || {};\nconst dev = devices[p.id];\n\nfunction error(text) {\n    node.status({ fill: 'red', shape: 'ring', text: text });\n\n    return [null, { 'payload': text }];\n}\n\nif (typeof dev !== 'object') {\n\n    return error('Nœud inconnu : ' + p.id);\n}\n\nconst def = dev.entities[p.property];\nif (typeof def !== 'object' || !(def.access & 2)) {\n\n    return error(dev.name + ' : ' + p.property + ' non pilotable');\n}\n\nconst raw = p.value === undefined || p.value === null ? '' : p.value;\nconst text = String(raw).trim();\nlet value;\n\nswitch (def.type) {\n    case 'binary': {\n        const v = text.toUpperCase();\n        if (def.ha_type === 'button') {\n            value = true;\n        } else if (['ON', '1', 'TRUE'].includes(v) || raw === true) {\n            value = true;\n        } else if (['OFF', '0', 'FALSE'].includes(v) || raw === false) {\n            value = false;\n        } else if (v === 'TOGGLE') {\n            value = dev.values[def.key] !== true;\n        }\n        break;\n    }\n    case 'number': {\n        const n = typeof raw === 'number' ? raw : Number(text.replace(',', '.'));\n        if (text !== '' && !isNaN(n)) {\n            value = n;\n            if (typeof def.min === 'number' && value < def.min) {\n                value = def.min;\n            }\n            if (typeof def.max === 'number' && value > def.max) {\n                value = def.max;\n            }\n        }\n        break;\n    }\n    case 'enum': {\n        // by label or by value\n        const s = (def.states || []).find(s => s.text.toLowerCase() === text.toLowerCase()) || (def.states || []).find(s => String(s.value) === text);\n        if (s) {\n            value = s.value;\n        }\n        break;\n    }\n    default:\n        value = text;\n}\n\nif (value === undefined) {\n\n    return error(dev.name + ' : valeur ' + text + ' refusée pour ' + def.name);\n}\n\nlet request = null;\n\n// Z-Wave JS UI controller\nif (p.id === 'controller') {\n    const calls = {\n        'inclusion': value ? ['startInclusion', [0, {}]] : ['stopInclusion', []],\n        'exclusion': value ? ['startExclusion', []] : ['stopExclusion', []]\n    };\n    if (calls[p.property] === undefined) {\n\n        return error('Commande de la passerelle inconnue');\n    }\n    request = api(calls[p.property][0], calls[p.property][1]);\n} else {\n    request = api('writeValue', [{ 'nodeId': dev.nodeId, ...def.write }, value]);\n}\n\nif (request === null) {\n\n    return error('Passerelle Z-Wave JS UI inconnue, vérifiez la configuration MQTT de Z-Wave JS UI');\n}\n\nnode.status({ fill: 'blue', shape: 'dot', text: dev.name + ' - ' + p.property + ' - ' + value });\n\nreturn [request, null];",
+        "x": 290,
+        "y": 1340,
         "wires": [
             [
                 "0f603b0bbbaaca28",
@@ -2177,9 +2427,7 @@
             [
                 "33d4859b6f1c9b98"
             ]
-        ],
-        "x": 390,
-        "y": 1230
+        ]
     },
     {
         "id": "0f603b0bbbaaca28",
@@ -2188,12 +2436,12 @@
         "g": "52a9a8493303b390",
         "name": "custom - pilot - mqtt",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 590,
-        "y": 1230
+        "x": 415,
+        "y": 1280,
+        "wires": []
     },
     {
         "id": "33d4859b6f1c9b98",
@@ -2202,12 +2450,12 @@
         "g": "52a9a8493303b390",
         "name": "custom - pilot - error",
         "mode": "link",
-        "wires": [],
         "links": [
             "fc147ee782462bbe"
         ],
-        "x": 590,
-        "y": 1290
+        "x": 415,
+        "y": 1340,
+        "wires": []
     },
     {
         "id": "1e9b246f43ea29e4",
@@ -2223,9 +2471,9 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "wires": [],
-        "x": 590,
-        "y": 1350
+        "x": 270,
+        "y": 1280,
+        "wires": []
     },
     {
         "id": "2947b8e3f9c23bda",
@@ -2233,17 +2481,17 @@
         "z": "48135a54600713e8",
         "g": "64ac70ae1a75b8a0",
         "name": "custom - discovery",
-        "wires": [
-            [
-                "a59dbabe741bbd3f"
-            ]
-        ],
         "links": [
             "ca5c502dcbc1ee15",
             "9afd04aabf201039"
         ],
-        "x": 190,
-        "y": 1472
+        "x": 165,
+        "y": 1460,
+        "wires": [
+            [
+                "a59dbabe741bbd3f"
+            ]
+        ]
     },
     {
         "id": "b03565bb0c345e5e",
@@ -2267,13 +2515,13 @@
         "topic": "",
         "payload": "",
         "payloadType": "str",
+        "x": 280,
+        "y": 1520,
         "wires": [
             [
                 "a59dbabe741bbd3f"
             ]
-        ],
-        "x": 190,
-        "y": 1532
+        ]
     },
     {
         "id": "a59dbabe741bbd3f",
@@ -2281,21 +2529,21 @@
         "z": "48135a54600713e8",
         "g": "64ac70ae1a75b8a0",
         "name": "discovery",
+        "func": "// Publish DKNR discovery and Home Assistant MQTT discovery of all known devices\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst discovery = global.get('mqtt.homeassistant', 'default') || '';\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'zwave';\n\nif (!enabled || topic === '') {\n\n    return;\n}\n\nconst defaults = { 'binary': 'OFF', 'number': 0, 'enum': '', 'text': '' };\n\nfor (const id in devices) {\n    const dev = devices[id];\n    const device = {\n        'identifiers': [\n            ['dknr', source, id].join('_')\n        ],\n        'manufacturer': dev.manufacturer || 'Z-Wave',\n        'model': [dev.product, dev.description].filter(v => v).join(' - ') || 'Z-Wave',\n        'name': dev.name || id\n    };\n    if (typeof dev.loc === 'string' && dev.loc !== '') {\n        device.suggested_area = dev.loc;\n    }\n    if (typeof dev.firmware === 'string' && dev.firmware !== '') {\n        device.sw_version = dev.firmware;\n    }\n    if (id !== 'controller' && typeof devices.controller === 'object') {\n        device.via_device = ['dknr', source, 'controller'].join('_');\n    }\n\n    for (const k in dev.entities) {\n        const def = dev.entities[k];\n\n        // dknr\n        let options = {};\n        if (def.type === 'enum') {\n            for (const v of def.values || []) {\n                options[v] = v;\n            }\n        }\n        node.send({\n            'topic': [topic, 'discovery', source, id, k].join('/'),\n            'payload': {\n                'name': def.name,\n                'group': def.group,\n                'type': def.type,\n                'unit': def.unit,\n                'value': defaults[def.type],\n                'options': options\n            },\n            'qos': 0,\n            'retain': true\n        });\n\n        // ha\n        if (discovery === '') {\n\n            continue;\n        }\n\n        let payload = {\n            'unique_id': ['dknr', source, id, k].join('_'),\n            'name': def.name,\n            'state_topic': [topic, 'get', source, id, k].join('/'),\n            'device': device\n        };\n\n        if (def.ha_category !== '') {\n            payload.entity_category = def.ha_category;\n        }\n        if (def.ha_enabled === false) {\n            payload.enabled_by_default = false;\n        }\n\n        // dead node: entities unavailable\n        if (k !== 'status' && typeof dev.entities.status === 'object') {\n            payload.availability_topic = [topic, 'get', source, id, 'status'].join('/');\n            payload.availability_template = \"{{ 'offline' if value == 'Mort' else 'online' }}\";\n            payload.payload_available = 'online';\n            payload.payload_not_available = 'offline';\n        }\n\n        if (def.ha_type === 'sensor') {\n            if (def.unit !== '') {\n                payload.unit_of_measurement = def.unit;\n            }\n            if (def.ha_state !== '') {\n                payload.state_class = def.ha_state;\n            }\n            if (def.ha_device !== '') {\n                payload.device_class = def.ha_device;\n            }\n            if (def.ha_device === 'enum') {\n                payload.options = def.values;\n            }\n        }\n        else if (def.ha_type === 'binary_sensor') {\n            payload.payload_on = def.invert ? 'OFF' : 'ON';\n            payload.payload_off = def.invert ? 'ON' : 'OFF';\n            if (def.ha_device !== '') {\n                payload.device_class = def.ha_device;\n            }\n        }\n        else if (def.ha_type === 'switch') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.payload_on = 'ON';\n            payload.payload_off = 'OFF';\n            payload.state_on = 'ON';\n            payload.state_off = 'OFF';\n        }\n        else if (def.ha_type === 'number') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.min = typeof def.min === 'number' ? def.min : -1000000;\n            payload.max = typeof def.max === 'number' ? def.max : 1000000;\n            payload.step = typeof def.step === 'number' ? def.step : 1;\n            payload.mode = typeof def.min === 'number' && typeof def.max === 'number' ? 'auto' : 'box';\n            if (def.unit !== '') {\n                payload.unit_of_measurement = def.unit;\n            }\n        }\n        else if (def.ha_type === 'select' && Array.isArray(def.values) && def.values.length > 0) {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.options = def.values;\n        }\n        else if (def.ha_type === 'text') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n        }\n        else if (def.ha_type === 'button') {\n            delete payload.state_topic;\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.payload_press = 'ON';\n        }\n        else {\n\n            continue;\n        }\n\n        node.send({\n            'topic': [discovery, def.ha_type, source, id + '_' + k, 'config'].join('/'),\n            'payload': payload,\n            'qos': 0,\n            'retain': true\n        });\n    }\n}\n\nreturn;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Publish DKNR discovery and Home Assistant MQTT discovery of all known devices\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst discovery = global.get('mqtt.homeassistant', 'default') || '';\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'zwave';\n\nif (!enabled || topic === '') {\n\n    return;\n}\n\nconst defaults = { 'binary': 'OFF', 'number': 0, 'enum': '', 'text': '' };\n\nfor (const id in devices) {\n    const dev = devices[id];\n    const device = {\n        'identifiers': [\n            ['dknr', source, id].join('_')\n        ],\n        'manufacturer': dev.manufacturer || 'Z-Wave',\n        'model': [dev.product, dev.description].filter(v => v).join(' - ') || 'Z-Wave',\n        'name': dev.name || id\n    };\n    if (typeof dev.loc === 'string' && dev.loc !== '') {\n        device.suggested_area = dev.loc;\n    }\n    if (typeof dev.firmware === 'string' && dev.firmware !== '') {\n        device.sw_version = dev.firmware;\n    }\n    if (id !== 'controller' && typeof devices.controller === 'object') {\n        device.via_device = ['dknr', source, 'controller'].join('_');\n    }\n\n    for (const k in dev.entities) {\n        const def = dev.entities[k];\n\n        // dknr\n        let options = {};\n        if (def.type === 'enum') {\n            for (const v of def.values || []) {\n                options[v] = v;\n            }\n        }\n        node.send({\n            'topic': [topic, 'discovery', source, id, k].join('/'),\n            'payload': {\n                'name': def.name,\n                'group': def.group,\n                'type': def.type,\n                'unit': def.unit,\n                'value': defaults[def.type],\n                'options': options\n            },\n            'qos': 0,\n            'retain': true\n        });\n\n        // ha\n        if (discovery === '') {\n\n            continue;\n        }\n\n        let payload = {\n            'unique_id': ['dknr', source, id, k].join('_'),\n            'name': def.name,\n            'state_topic': [topic, 'get', source, id, k].join('/'),\n            'device': device\n        };\n\n        if (def.ha_category !== '') {\n            payload.entity_category = def.ha_category;\n        }\n        if (def.ha_enabled === false) {\n            payload.enabled_by_default = false;\n        }\n\n        // dead node: entities unavailable\n        if (k !== 'status' && typeof dev.entities.status === 'object') {\n            payload.availability_topic = [topic, 'get', source, id, 'status'].join('/');\n            payload.availability_template = \"{{ 'offline' if value == 'Mort' else 'online' }}\";\n            payload.payload_available = 'online';\n            payload.payload_not_available = 'offline';\n        }\n\n        if (def.ha_type === 'sensor') {\n            if (def.unit !== '') {\n                payload.unit_of_measurement = def.unit;\n            }\n            if (def.ha_state !== '') {\n                payload.state_class = def.ha_state;\n            }\n            if (def.ha_device !== '') {\n                payload.device_class = def.ha_device;\n            }\n            if (def.ha_device === 'enum') {\n                payload.options = def.values;\n            }\n        }\n        else if (def.ha_type === 'binary_sensor') {\n            payload.payload_on = def.invert ? 'OFF' : 'ON';\n            payload.payload_off = def.invert ? 'ON' : 'OFF';\n            if (def.ha_device !== '') {\n                payload.device_class = def.ha_device;\n            }\n        }\n        else if (def.ha_type === 'switch') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.payload_on = 'ON';\n            payload.payload_off = 'OFF';\n            payload.state_on = 'ON';\n            payload.state_off = 'OFF';\n        }\n        else if (def.ha_type === 'number') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.min = typeof def.min === 'number' ? def.min : -1000000;\n            payload.max = typeof def.max === 'number' ? def.max : 1000000;\n            payload.step = typeof def.step === 'number' ? def.step : 1;\n            payload.mode = typeof def.min === 'number' && typeof def.max === 'number' ? 'auto' : 'box';\n            if (def.unit !== '') {\n                payload.unit_of_measurement = def.unit;\n            }\n        }\n        else if (def.ha_type === 'select' && Array.isArray(def.values) && def.values.length > 0) {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.options = def.values;\n        }\n        else if (def.ha_type === 'text') {\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n        }\n        else if (def.ha_type === 'button') {\n            delete payload.state_topic;\n            payload.command_topic = [topic, 'set', source, id, k].join('/');\n            payload.payload_press = 'ON';\n        }\n        else {\n\n            continue;\n        }\n\n        node.send({\n            'topic': [discovery, def.ha_type, source, id + '_' + k, 'config'].join('/'),\n            'payload': payload,\n            'qos': 0,\n            'retain': true\n        });\n    }\n}\n\nreturn;",
+        "x": 310,
+        "y": 1460,
         "wires": [
             [
                 "e4f02286ec252dad",
                 "65ccdb21a5cc7a4b"
             ]
-        ],
-        "x": 390,
-        "y": 1472
+        ]
     },
     {
         "id": "e4f02286ec252dad",
@@ -2315,13 +2563,13 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
+        "x": 480,
+        "y": 1460,
         "wires": [
             [
                 "122d5c077df652e7"
             ]
-        ],
-        "x": 590,
-        "y": 1472
+        ]
     },
     {
         "id": "122d5c077df652e7",
@@ -2330,12 +2578,12 @@
         "g": "64ac70ae1a75b8a0",
         "name": "custom_discovery",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 790,
-        "y": 1472
+        "x": 605,
+        "y": 1460,
+        "wires": []
     },
     {
         "id": "65ccdb21a5cc7a4b",
@@ -2351,9 +2599,9 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "wires": [],
-        "x": 590,
-        "y": 1532
+        "x": 520,
+        "y": 1520,
+        "wires": []
     },
     {
         "id": "3efc72a53e8aeb73",
@@ -2361,18 +2609,18 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "custom - detail",
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ddab942f6d49a661"
+        ],
+        "x": 165,
+        "y": 1820,
         "wires": [
             [
                 "866f077a8d2a4d5f",
                 "ce769dafaa4474f4"
             ]
-        ],
-        "links": [
-            "d0ee4b417bfa2bb7",
-            "ddab942f6d49a661"
-        ],
-        "x": 190,
-        "y": 1654
+        ]
     },
     {
         "id": "866f077a8d2a4d5f",
@@ -2380,13 +2628,15 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "get names",
+        "func": "// Fill device selector\n// output 1: auto select single device / output 2: dropdown\n\nflow.set('current_device', '', 'memoryOnly');\nflow.set('current_entity', '', 'memoryOnly');\n\ndelete msg.dashboard;\ndelete msg.tab;\ndelete msg.name;\ndelete msg.version;\ndelete msg.title;\ndelete msg.full;\ndelete msg.git;\ndelete msg.lang;\ndelete msg.menus;\ndelete msg.titles;\ndelete msg.options;\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst ids = Object.keys(devices)\n    .filter(id => Object.keys(devices[id].entities || {}).length > 0)\n    .sort((a, b) => (a === 'controller' ? -1 : (b === 'controller' ? 1 : devices[a].nodeId - devices[b].nodeId)));\n\nmsg.payload = '';\nmsg.class = '';\nmsg.enabled = true;\nmsg.options = [{\n    'label': '',\n    'value': ''\n}];\n\nfor (const id of ids) {\n    msg.options.push({\n        'label': (id === 'controller' ? '' : id + ' - ') + devices[id].name + (devices[id].product ? ' (' + devices[id].product + ')' : ''),\n        'value': id\n    });\n}\n\nif (ids.length === 0) {\n    msg.class = 'remove';\n    msg.enabled = false;\n    msg.options = [];\n\n    return [null, msg];\n}\n\nif (ids.length === 1) {\n    node.send([{ 'payload': ids[0] }, null]);\n    msg.class = 'remove';\n    msg.enabled = false;\n\n    return [null, msg];\n}\n\nreturn [null, msg];",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Fill device selector\n// output 1: auto select single device / output 2: dropdown\n\nflow.set('current_device', '', 'memoryOnly');\nflow.set('current_entity', '', 'memoryOnly');\n\ndelete msg.dashboard;\ndelete msg.tab;\ndelete msg.name;\ndelete msg.version;\ndelete msg.title;\ndelete msg.full;\ndelete msg.git;\ndelete msg.lang;\ndelete msg.menus;\ndelete msg.titles;\ndelete msg.options;\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst ids = Object.keys(devices)\n    .filter(id => Object.keys(devices[id].entities || {}).length > 0)\n    .sort((a, b) => (a === 'controller' ? -1 : (b === 'controller' ? 1 : devices[a].nodeId - devices[b].nodeId)));\n\nmsg.payload = '';\nmsg.class = '';\nmsg.enabled = true;\nmsg.options = [{\n    'label': '',\n    'value': ''\n}];\n\nfor (const id of ids) {\n    msg.options.push({\n        'label': (id === 'controller' ? '' : id + ' - ') + devices[id].name + (devices[id].product ? ' (' + devices[id].product + ')' : ''),\n        'value': id\n    });\n}\n\nif (ids.length === 0) {\n    msg.class = 'remove';\n    msg.enabled = false;\n    msg.options = [];\n\n    return [null, msg];\n}\n\nif (ids.length === 1) {\n    node.send([{ 'payload': ids[0] }, null]);\n    msg.class = 'remove';\n    msg.enabled = false;\n\n    return [null, msg];\n}\n\nreturn [null, msg];",
+        "x": 330,
+        "y": 1700,
         "wires": [
             [
                 "6d246ee18008eab6"
@@ -2394,9 +2644,7 @@
             [
                 "3350fd457eda24f8"
             ]
-        ],
-        "x": 390,
-        "y": 1654
+        ]
     },
     {
         "id": "ce769dafaa4474f4",
@@ -2404,11 +2652,6 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "hide",
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
         "rules": [
             {
                 "t": "set",
@@ -2432,6 +2675,13 @@
                 "tot": "bool"
             }
         ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 930,
+        "y": 1820,
         "wires": [
             [
                 "f3ce22892ca6034f",
@@ -2439,17 +2689,15 @@
                 "3ac110b844a60aef",
                 "a54217ca23bef1b9"
             ]
-        ],
-        "x": 390,
-        "y": 1774
+        ]
     },
     {
         "id": "3350fd457eda24f8",
         "type": "ui-dropdown",
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
-        "name": "custom - detail - select",
         "group": "117d5289b94a0fc6",
+        "name": "custom - detail - select",
         "label": "Sélectionner un nœud",
         "tooltip": "",
         "order": 1,
@@ -2472,13 +2720,13 @@
         "className": "",
         "typeIsComboBox": true,
         "msgTrigger": "onChange",
+        "x": 560,
+        "y": 1760,
         "wires": [
             [
                 "d531344d089defcd"
             ]
-        ],
-        "x": 590,
-        "y": 1714
+        ]
     },
     {
         "id": "d531344d089defcd",
@@ -2486,8 +2734,6 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "empty",
-        "checkall": "false",
-        "repair": false,
         "property": "payload",
         "propertyType": "msg",
         "rules": [
@@ -2498,7 +2744,11 @@
                 "t": "else"
             }
         ],
+        "checkall": "false",
+        "repair": false,
         "outputs": 2,
+        "x": 770,
+        "y": 1760,
         "wires": [
             [
                 "6d246ee18008eab6"
@@ -2506,9 +2756,7 @@
             [
                 "ce769dafaa4474f4"
             ]
-        ],
-        "x": 790,
-        "y": 1714
+        ]
     },
     {
         "id": "6d246ee18008eab6",
@@ -2516,13 +2764,15 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "render",
+        "func": "// Show a device\n// output 1: table / output 2: command selector / output 3: value selector / output 4: value form\n// output 5: read button / output 6: refresh loop\n// msg.refresh: only refresh the table\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = msg.payload;\nconst dev = devices[id];\nconst refresh = msg.refresh === true;\n\nconst hide = { 'payload': '', 'class': 'remove', 'enabled': false };\n\nif (typeof dev !== 'object') {\n    flow.set('current_device', '', 'memoryOnly');\n    flow.set('current_entity', '', 'memoryOnly');\n\n    return [{ 'payload': [], 'class': 'remove' }, refresh ? null : { ...hide, 'options': [] }, refresh ? null : hide, refresh ? null : { 'class': 'remove' }, refresh ? null : hide, null];\n}\n\nif (refresh && flow.get('current_device', 'memoryOnly') !== id) {\n\n    return;\n}\n\nflow.set('current_device', id, 'memoryOnly');\n\nfunction display(def, raw) {\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    switch (def.type) {\n        case 'binary': {\n            const on = raw === def.value_on;\n            if (raw !== def.value_on && raw !== def.value_off) {\n\n                return String(raw);\n            }\n            if (id === 'controller' && def.key === 'state') {\n\n                return on ? 'En ligne' : 'Hors ligne';\n            }\n            if (def.display === 'state') {\n\n                return on ? 'Allumé' : 'Eteint';\n            }\n            if (def.display === 'contact') {\n\n                return on ? 'Ouvert' : 'Fermé';\n            }\n\n            return on ? 'Oui' : 'Non';\n        }\n        case 'number':\n\n            return String(raw) + (def.unit ? ' ' + def.unit : '');\n        case 'enum':\n            if (Array.isArray(def.states)) {\n                const s = def.states.find(s => s.value === raw || String(s.value) === String(raw));\n                if (s) {\n\n                    return s.text;\n                }\n            }\n\n            return String(raw);\n        default:\n            if (def.ha_device === 'timestamp') {\n                const d = new Date(raw);\n                if (!isNaN(d.getTime())) {\n\n                    return d.toLocaleString('fr-FR', { 'timeZone': env.get('TZ') || 'Europe/Paris' });\n                }\n            }\n\n            return typeof raw === 'object' ? JSON.stringify(raw) : String(raw);\n    }\n}\n\nlet rows = [];\nfunction add(lbl, val) {\n    if (val !== undefined && val !== null && val !== '') {\n        rows.push({ 'lbl': lbl, 'val': String(val) });\n    }\n}\n\nadd('Nom', dev.name);\nadd('Emplacement', dev.loc);\nadd('Fabricant', dev.manufacturer);\nadd('Modèle', dev.product);\nadd('Description', dev.description);\nif (id !== 'controller') {\n    add('Nœud', dev.nodeId);\n    add('Ecoute', dev.listening ? 'Permanente (secteur)' : 'Au réveil (pile)');\n}\n\nconst keys = Object.keys(dev.entities).sort((a, b) => String(dev.entities[a].name).localeCompare(String(dev.entities[b].name)));\nfor (const k of keys) {\n    add(dev.entities[k].name, display(dev.entities[k], dev.values[k]));\n}\n\nadd('Firmware', dev.firmware);\n\nif (refresh) {\n\n    return [{ 'payload': rows, 'class': '' }, null, null, null, null, { 'payload': id }];\n}\n\n// command selector\nflow.set('current_entity', '', 'memoryOnly');\n\nlet options = [{ 'label': '', 'value': '' }];\nfor (const k of keys) {\n    if (dev.entities[k].access & 2) {\n        options.push({ 'label': dev.entities[k].name, 'value': k });\n    }\n}\nconst commands = options.length > 1\n    ? { 'payload': '', 'options': options, 'class': '', 'enabled': true }\n    : { 'payload': '', 'options': [], 'class': 'remove', 'enabled': false };\n\n// read button, only for devices answering to get requests\nconst readable = id !== 'controller';\n\nreturn [\n    { 'payload': rows, 'class': '' },\n    commands,\n    hide,\n    { 'class': 'remove' },\n    readable ? { 'payload': '', 'class': '', 'enabled': true } : hide,\n    { 'payload': id }\n];",
         "outputs": 6,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Show a device\n// output 1: table / output 2: command selector / output 3: value selector / output 4: value form\n// output 5: read button / output 6: refresh loop\n// msg.refresh: only refresh the table\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = msg.payload;\nconst dev = devices[id];\nconst refresh = msg.refresh === true;\n\nconst hide = { 'payload': '', 'class': 'remove', 'enabled': false };\n\nif (typeof dev !== 'object') {\n    flow.set('current_device', '', 'memoryOnly');\n    flow.set('current_entity', '', 'memoryOnly');\n\n    return [{ 'payload': [], 'class': 'remove' }, refresh ? null : { ...hide, 'options': [] }, refresh ? null : hide, refresh ? null : { 'class': 'remove' }, refresh ? null : hide, null];\n}\n\nif (refresh && flow.get('current_device', 'memoryOnly') !== id) {\n\n    return;\n}\n\nflow.set('current_device', id, 'memoryOnly');\n\nfunction display(def, raw) {\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    switch (def.type) {\n        case 'binary': {\n            const on = raw === def.value_on;\n            if (raw !== def.value_on && raw !== def.value_off) {\n\n                return String(raw);\n            }\n            if (id === 'controller' && def.key === 'state') {\n\n                return on ? 'En ligne' : 'Hors ligne';\n            }\n            if (def.display === 'state') {\n\n                return on ? 'Allumé' : 'Eteint';\n            }\n            if (def.display === 'contact') {\n\n                return on ? 'Ouvert' : 'Fermé';\n            }\n\n            return on ? 'Oui' : 'Non';\n        }\n        case 'number':\n\n            return String(raw) + (def.unit ? ' ' + def.unit : '');\n        case 'enum':\n            if (Array.isArray(def.states)) {\n                const s = def.states.find(s => s.value === raw || String(s.value) === String(raw));\n                if (s) {\n\n                    return s.text;\n                }\n            }\n\n            return String(raw);\n        default:\n            if (def.ha_device === 'timestamp') {\n                const d = new Date(raw);\n                if (!isNaN(d.getTime())) {\n\n                    return d.toLocaleString('fr-FR', { 'timeZone': env.get('TZ') || 'Europe/Paris' });\n                }\n            }\n\n            return typeof raw === 'object' ? JSON.stringify(raw) : String(raw);\n    }\n}\n\nlet rows = [];\nfunction add(lbl, val) {\n    if (val !== undefined && val !== null && val !== '') {\n        rows.push({ 'lbl': lbl, 'val': String(val) });\n    }\n}\n\nadd('Nom', dev.name);\nadd('Emplacement', dev.loc);\nadd('Fabricant', dev.manufacturer);\nadd('Modèle', dev.product);\nadd('Description', dev.description);\nif (id !== 'controller') {\n    add('Nœud', dev.nodeId);\n    add('Ecoute', dev.listening ? 'Permanente (secteur)' : 'Au réveil (pile)');\n}\n\nconst keys = Object.keys(dev.entities).sort((a, b) => String(dev.entities[a].name).localeCompare(String(dev.entities[b].name)));\nfor (const k of keys) {\n    add(dev.entities[k].name, display(dev.entities[k], dev.values[k]));\n}\n\nadd('Firmware', dev.firmware);\n\nif (refresh) {\n\n    return [{ 'payload': rows, 'class': '' }, null, null, null, null, { 'payload': id }];\n}\n\n// command selector\nflow.set('current_entity', '', 'memoryOnly');\n\nlet options = [{ 'label': '', 'value': '' }];\nfor (const k of keys) {\n    if (dev.entities[k].access & 2) {\n        options.push({ 'label': dev.entities[k].name, 'value': k });\n    }\n}\nconst commands = options.length > 1\n    ? { 'payload': '', 'options': options, 'class': '', 'enabled': true }\n    : { 'payload': '', 'options': [], 'class': 'remove', 'enabled': false };\n\n// read button, only for devices answering to get requests\nconst readable = id !== 'controller';\n\nreturn [\n    { 'payload': rows, 'class': '' },\n    commands,\n    hide,\n    { 'class': 'remove' },\n    readable ? { 'payload': '', 'class': '', 'enabled': true } : hide,\n    { 'payload': id }\n];",
+        "x": 930,
+        "y": 1700,
         "wires": [
             [
                 "f3ce22892ca6034f"
@@ -2542,17 +2792,15 @@
             [
                 "c837a3c38158e0e1"
             ]
-        ],
-        "x": 990,
-        "y": 1654
+        ]
     },
     {
         "id": "f3ce22892ca6034f",
         "type": "ui-table",
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
-        "name": "custom - detail - table",
         "group": "117d5289b94a0fc6",
+        "name": "custom - detail - table",
         "label": "",
         "order": 2,
         "width": "6",
@@ -2584,19 +2832,19 @@
         "mobileBreakpoint": "sm",
         "mobileBreakpointType": "defaults",
         "action": "replace",
+        "x": 1140,
+        "y": 2000,
         "wires": [
             []
-        ],
-        "x": 1190,
-        "y": 1654
+        ]
     },
     {
         "id": "38115d712326bbc9",
         "type": "ui-dropdown",
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
-        "name": "custom - detail - command",
         "group": "117d5289b94a0fc6",
+        "name": "custom - detail - command",
         "label": "Commander",
         "tooltip": "",
         "order": 3,
@@ -2619,13 +2867,13 @@
         "className": "",
         "typeIsComboBox": true,
         "msgTrigger": "onChange",
+        "x": 1160,
+        "y": 1880,
         "wires": [
             [
                 "049c5c221d2b63d2"
             ]
-        ],
-        "x": 1190,
-        "y": 1714
+        ]
     },
     {
         "id": "049c5c221d2b63d2",
@@ -2633,13 +2881,15 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "command",
+        "func": "// Command selected: show value selector (binary, enum) or value form (number, text)\n// output 1: value selector / output 2: value form\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst dev = devices[id];\nconst k = typeof msg.payload === 'string' ? msg.payload : '';\n\nconst hide = { 'payload': '', 'options': [], 'class': 'remove', 'enabled': false };\n\nif (typeof dev !== 'object' || k === '' || typeof dev.entities[k] !== 'object') {\n    flow.set('current_entity', '', 'memoryOnly');\n\n    return [hide, { 'class': 'remove' }];\n}\n\nflow.set('current_entity', k, 'memoryOnly');\n\nconst def = dev.entities[k];\n\nif (def.type === 'binary' && def.ha_type === 'button') {\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [{ 'label': '', 'value': '' }, { 'label': 'Déclencher', 'value': 'ON' }]\n    }, { 'class': 'remove' }];\n}\n\nif (def.type === 'binary') {\n    const state = def.display === 'state';\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [\n            { 'label': '', 'value': '' },\n            { 'label': state ? 'Allumer' : 'Activer', 'value': 'ON' },\n            { 'label': state ? 'Eteindre' : 'Désactiver', 'value': 'OFF' },\n            { 'label': 'Inverser', 'value': 'TOGGLE' }\n        ]\n    }, { 'class': 'remove' }];\n}\n\nif (def.type === 'enum') {\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [{ 'label': '', 'value': '' }].concat((def.values || []).map(v => ({ 'label': v, 'value': v })))\n    }, { 'class': 'remove' }];\n}\n\n// number or text: prefill the form with the current value\nlet value = dev.values[k];\nif (value === undefined || value === null || typeof value === 'object') {\n    value = '';\n}\n\nreturn [hide, { 'payload': { 'value': String(value) }, 'class': '' }];",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Command selected: show value selector (binary, enum) or value form (number, text)\n// output 1: value selector / output 2: value form\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst dev = devices[id];\nconst k = typeof msg.payload === 'string' ? msg.payload : '';\n\nconst hide = { 'payload': '', 'options': [], 'class': 'remove', 'enabled': false };\n\nif (typeof dev !== 'object' || k === '' || typeof dev.entities[k] !== 'object') {\n    flow.set('current_entity', '', 'memoryOnly');\n\n    return [hide, { 'class': 'remove' }];\n}\n\nflow.set('current_entity', k, 'memoryOnly');\n\nconst def = dev.entities[k];\n\nif (def.type === 'binary' && def.ha_type === 'button') {\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [{ 'label': '', 'value': '' }, { 'label': 'Déclencher', 'value': 'ON' }]\n    }, { 'class': 'remove' }];\n}\n\nif (def.type === 'binary') {\n    const state = def.display === 'state';\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [\n            { 'label': '', 'value': '' },\n            { 'label': state ? 'Allumer' : 'Activer', 'value': 'ON' },\n            { 'label': state ? 'Eteindre' : 'Désactiver', 'value': 'OFF' },\n            { 'label': 'Inverser', 'value': 'TOGGLE' }\n        ]\n    }, { 'class': 'remove' }];\n}\n\nif (def.type === 'enum') {\n\n    return [{\n        'payload': '',\n        'class': '',\n        'enabled': true,\n        'options': [{ 'label': '', 'value': '' }].concat((def.values || []).map(v => ({ 'label': v, 'value': v })))\n    }, { 'class': 'remove' }];\n}\n\n// number or text: prefill the form with the current value\nlet value = dev.values[k];\nif (value === undefined || value === null || typeof value === 'object') {\n    value = '';\n}\n\nreturn [hide, { 'payload': { 'value': String(value) }, 'class': '' }];",
+        "x": 1400,
+        "y": 1880,
         "wires": [
             [
                 "3ac110b844a60aef"
@@ -2647,17 +2897,15 @@
             [
                 "2c6b2aafc5a14d23"
             ]
-        ],
-        "x": 1390,
-        "y": 1714
+        ]
     },
     {
         "id": "3ac110b844a60aef",
         "type": "ui-dropdown",
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
-        "name": "custom - detail - value",
         "group": "117d5289b94a0fc6",
+        "name": "custom - detail - value",
         "label": "Valeur",
         "tooltip": "",
         "order": 4,
@@ -2680,13 +2928,13 @@
         "className": "",
         "typeIsComboBox": true,
         "msgTrigger": "onChange",
+        "x": 1600,
+        "y": 1820,
         "wires": [
             [
                 "b212e09fe90b5853"
             ]
-        ],
-        "x": 1590,
-        "y": 1714
+        ]
     },
     {
         "id": "2c6b2aafc5a14d23",
@@ -2720,13 +2968,13 @@
         "className": "",
         "passthru": false,
         "dropdownOptions": [],
+        "x": 1600,
+        "y": 1760,
         "wires": [
             [
                 "b212e09fe90b5853"
             ]
-        ],
-        "x": 1590,
-        "y": 1774
+        ]
     },
     {
         "id": "b212e09fe90b5853",
@@ -2734,13 +2982,15 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "send",
+        "func": "// UI value to pilot\n// input: value selector (payload = value) or value form (payload = {value})\n// output 1: pilot / output 2: reset value selector\n\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst k = flow.get('current_entity', 'memoryOnly') || '';\n\nlet value = msg.payload;\nif (typeof value === 'object' && value !== null) {\n    value = value.value;\n}\n\nif (id === '' || k === '' || value === undefined || value === null || value === '') {\n\n    return;\n}\n\nreturn [{\n    'topic': id,\n    'payload': {\n        'id': id,\n        'property': k,\n        'value': value\n    }\n}, typeof msg.payload === 'object' ? null : { 'payload': '' }];",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// UI value to pilot\n// input: value selector (payload = value) or value form (payload = {value})\n// output 1: pilot / output 2: reset value selector\n\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst k = flow.get('current_entity', 'memoryOnly') || '';\n\nlet value = msg.payload;\nif (typeof value === 'object' && value !== null) {\n    value = value.value;\n}\n\nif (id === '' || k === '' || value === undefined || value === null || value === '') {\n\n    return;\n}\n\nreturn [{\n    'topic': id,\n    'payload': {\n        'id': id,\n        'property': k,\n        'value': value\n    }\n}, typeof msg.payload === 'object' ? null : { 'payload': '' }];",
+        "x": 1810,
+        "y": 1820,
         "wires": [
             [
                 "cce723282bda90c4"
@@ -2748,9 +2998,7 @@
             [
                 "03e6a617517742aa"
             ]
-        ],
-        "x": 1790,
-        "y": 1714
+        ]
     },
     {
         "id": "03e6a617517742aa",
@@ -2770,13 +3018,13 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
+        "x": 1970,
+        "y": 1820,
         "wires": [
             [
                 "3ac110b844a60aef"
             ]
-        ],
-        "x": 1990,
-        "y": 1774
+        ]
     },
     {
         "id": "cce723282bda90c4",
@@ -2785,20 +3033,20 @@
         "g": "b0c6571a7a66b307",
         "name": "custom - detail - pilot",
         "mode": "link",
-        "wires": [],
         "links": [
             "bef26947b63403d9"
         ],
-        "x": 1990,
-        "y": 1714
+        "x": 1935,
+        "y": 1760,
+        "wires": []
     },
     {
         "id": "a54217ca23bef1b9",
         "type": "ui-button",
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
-        "name": "custom - detail - read",
         "group": "117d5289b94a0fc6",
+        "name": "custom - detail - read",
         "label": "Relire les valeurs",
         "order": 6,
         "width": "6",
@@ -2824,13 +3072,13 @@
         "enablePointerup": false,
         "pointerupPayload": "",
         "pointerupPayloadType": "str",
+        "x": 1140,
+        "y": 1940,
         "wires": [
             [
                 "3d5e5e4ff92538bf"
             ]
-        ],
-        "x": 1190,
-        "y": 1834
+        ]
     },
     {
         "id": "3d5e5e4ff92538bf",
@@ -2838,13 +3086,15 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "get",
+        "func": "// Ask Z-Wave JS UI to read all the values of the current node again\n// output 1: Z-Wave JS UI API request / output 2: notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst dev = devices[id];\n\nif (typeof dev !== 'object' || id === 'controller') {\n\n    return;\n}\n\nconst request = api('refreshValues', [dev.nodeId]);\nif (request === null) {\n\n    return [null, { 'payload': 'Passerelle Z-Wave JS UI inconnue' }];\n}\n\nreturn [request, { 'payload': dev.listening ? 'Lecture de ' + dev.name + ' demandée' : dev.name + ' sera relu à son prochain réveil' }];",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Ask Z-Wave JS UI to read all the values of the current node again\n// output 1: Z-Wave JS UI API request / output 2: notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_device', 'memoryOnly') || '';\nconst dev = devices[id];\n\nif (typeof dev !== 'object' || id === 'controller') {\n\n    return;\n}\n\nconst request = api('refreshValues', [dev.nodeId]);\nif (request === null) {\n\n    return [null, { 'payload': 'Passerelle Z-Wave JS UI inconnue' }];\n}\n\nreturn [request, { 'payload': dev.listening ? 'Lecture de ' + dev.name + ' demandée' : dev.name + ' sera relu à son prochain réveil' }];",
+        "x": 1350,
+        "y": 1940,
         "wires": [
             [
                 "492d69200148a565"
@@ -2852,9 +3102,7 @@
             [
                 "71e5c328f69e426a"
             ]
-        ],
-        "x": 1390,
-        "y": 1834
+        ]
     },
     {
         "id": "492d69200148a565",
@@ -2863,12 +3111,12 @@
         "g": "b0c6571a7a66b307",
         "name": "custom - detail - get",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 1590,
-        "y": 1834
+        "x": 1475,
+        "y": 1940,
+        "wires": []
     },
     {
         "id": "71e5c328f69e426a",
@@ -2877,12 +3125,12 @@
         "g": "b0c6571a7a66b307",
         "name": "custom - detail - notify",
         "mode": "link",
-        "wires": [],
         "links": [
             "fc147ee782462bbe"
         ],
-        "x": 1590,
-        "y": 1894
+        "x": 1475,
+        "y": 2000,
+        "wires": []
     },
     {
         "id": "c837a3c38158e0e1",
@@ -2902,13 +3150,13 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
+        "x": 1090,
+        "y": 1640,
         "wires": [
             [
                 "c5566c56bae42eb9"
             ]
-        ],
-        "x": 1190,
-        "y": 1954
+        ]
     },
     {
         "id": "c5566c56bae42eb9",
@@ -2916,11 +3164,6 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "current",
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
         "rules": [
             {
                 "t": "set",
@@ -2937,13 +3180,18 @@
                 "tot": "bool"
             }
         ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1290,
+        "y": 1640,
         "wires": [
             [
                 "1e354a82343cab33"
             ]
-        ],
-        "x": 1390,
-        "y": 1954
+        ]
     },
     {
         "id": "1e354a82343cab33",
@@ -2951,8 +3199,6 @@
         "z": "48135a54600713e8",
         "g": "b0c6571a7a66b307",
         "name": "empty",
-        "checkall": "false",
-        "repair": false,
         "property": "payload",
         "propertyType": "msg",
         "rules": [
@@ -2960,14 +3206,16 @@
                 "t": "nempty"
             }
         ],
+        "checkall": "false",
+        "repair": false,
         "outputs": 1,
+        "x": 1490,
+        "y": 1640,
         "wires": [
             [
                 "6d246ee18008eab6"
             ]
-        ],
-        "x": 1590,
-        "y": 1954
+        ]
     },
     {
         "id": "409fb75f7121072a",
@@ -2975,18 +3223,18 @@
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
         "name": "custom - network",
-        "wires": [
-            [
-                "1e58cb258b671c18"
-            ]
-        ],
         "links": [
             "d0ee4b417bfa2bb7",
             "ddab942f6d49a661",
             "ebe01c9b2ae9584c"
         ],
-        "x": 190,
-        "y": 2076
+        "x": 165,
+        "y": 2180,
+        "wires": [
+            [
+                "1e58cb258b671c18"
+            ]
+        ]
     },
     {
         "id": "1e58cb258b671c18",
@@ -2994,13 +3242,15 @@
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
         "name": "render",
+        "func": "// Z-Wave network page\n// output 1: controller table / output 2: nodes table / output 3: node selector (page opened or nodes list changed)\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst client = global.get('client', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst info = client.info || {};\nconst tz = env.get('TZ') || 'Europe/Paris';\n\nfunction date(v) {\n    const d = new Date(v);\n    if (v === undefined || v === null || v === '' || isNaN(d.getTime())) {\n\n        return '';\n    }\n\n    return d.toLocaleString('fr-FR', { 'timeZone': tz });\n}\n\nconst ids = Object.keys(devices)\n    .filter(id => id !== 'controller')\n    .sort((a, b) => devices[a].nodeId - devices[b].nodeId);\n\n// controller\nlet rows = [];\nfunction add(lbl, val) {\n    if (val !== undefined && val !== null && val !== '') {\n        rows.push({ 'lbl': lbl, 'val': String(val) });\n    }\n}\n\nconst c = (devices.controller || {}).values || {};\nadd('Passerelle', client.state === undefined ? 'Inconnue' : (client.state ? 'En ligne' : 'Hors ligne') + (client.id ? ' (' + client.id + ')' : ''));\nadd('Version', c.version);\nadd('Z-Wave JS', info.zwaveVersion);\nadd('Home ID', typeof info.homeid === 'number' ? '0x' + info.homeid.toString(16).padStart(8, '0') : '');\nadd('Contrôleur', info.controllerId || client.controllerId);\nadd('Etat', c.inclusion ? 'Inclusion en cours' : (c.exclusion ? 'Exclusion en cours' : (Z.inclusion || {})[String(info.inclusionState)]));\nadd('Nœuds', ids.length);\nadd('Evénements Z-Wave', client.events ? 'Reçus (' + date(client.events) + ')' : 'Non reçus : activez « Send Z-Wave Events »');\n\n// nodes\nlet list = [];\nfor (const id of ids) {\n    const d = devices[id];\n    const v = d.values || {};\n    let battery = '';\n    const b = Object.keys(d.entities || {}).find(k => k.startsWith('128_') && d.entities[k].type === 'number');\n    if (b !== undefined && typeof v[b] === 'number') {\n        battery = v[b] + ' %';\n    }\n\n    list.push({\n        'id': d.nodeId,\n        'name': d.name,\n        'loc': d.loc,\n        'model': [d.manufacturer, d.product].filter(x => x).join(' '),\n        'battery': battery,\n        'seen': date(v.lastActive),\n        'state': d.failed ? 'Défaillant' : (d.ready ? (v.status || '') : 'Interrogation en cours')\n    });\n}\n\nlet select = null;\nif (msg.payload !== 'controller' && msg.payload !== 'status') {\n    flow.set('current_manage', '', 'memoryOnly');\n    select = {\n        'payload': '',\n        'class': ids.length > 0 ? '' : 'remove',\n        'enabled': ids.length > 0,\n        'options': [{ 'label': '', 'value': '' }].concat(ids.map(id => ({ 'label': id + ' - ' + devices[id].name + (devices[id].product ? ' (' + devices[id].product + ')' : ''), 'value': id })))\n    };\n}\n\nreturn [\n    { 'payload': rows },\n    { 'payload': list, 'class': list.length > 0 ? '' : 'remove' },\n    select\n];",
         "outputs": 3,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Z-Wave network page\n// output 1: controller table / output 2: nodes table / output 3: node selector (page opened or nodes list changed)\n\nconst Z = ((global.get('describe', 'memoryOnly') || {}).zwave) || {};\nconst client = global.get('client', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst info = client.info || {};\nconst tz = env.get('TZ') || 'Europe/Paris';\n\nfunction date(v) {\n    const d = new Date(v);\n    if (v === undefined || v === null || v === '' || isNaN(d.getTime())) {\n\n        return '';\n    }\n\n    return d.toLocaleString('fr-FR', { 'timeZone': tz });\n}\n\nconst ids = Object.keys(devices)\n    .filter(id => id !== 'controller')\n    .sort((a, b) => devices[a].nodeId - devices[b].nodeId);\n\n// controller\nlet rows = [];\nfunction add(lbl, val) {\n    if (val !== undefined && val !== null && val !== '') {\n        rows.push({ 'lbl': lbl, 'val': String(val) });\n    }\n}\n\nconst c = (devices.controller || {}).values || {};\nadd('Passerelle', client.state === undefined ? 'Inconnue' : (client.state ? 'En ligne' : 'Hors ligne') + (client.id ? ' (' + client.id + ')' : ''));\nadd('Version', c.version);\nadd('Z-Wave JS', info.zwaveVersion);\nadd('Home ID', typeof info.homeid === 'number' ? '0x' + info.homeid.toString(16).padStart(8, '0') : '');\nadd('Contrôleur', info.controllerId || client.controllerId);\nadd('Etat', c.inclusion ? 'Inclusion en cours' : (c.exclusion ? 'Exclusion en cours' : (Z.inclusion || {})[String(info.inclusionState)]));\nadd('Nœuds', ids.length);\nadd('Evénements Z-Wave', client.events ? 'Reçus (' + date(client.events) + ')' : 'Non reçus : activez « Send Z-Wave Events »');\n\n// nodes\nlet list = [];\nfor (const id of ids) {\n    const d = devices[id];\n    const v = d.values || {};\n    let battery = '';\n    const b = Object.keys(d.entities || {}).find(k => k.startsWith('128_') && d.entities[k].type === 'number');\n    if (b !== undefined && typeof v[b] === 'number') {\n        battery = v[b] + ' %';\n    }\n\n    list.push({\n        'id': d.nodeId,\n        'name': d.name,\n        'loc': d.loc,\n        'model': [d.manufacturer, d.product].filter(x => x).join(' '),\n        'battery': battery,\n        'seen': date(v.lastActive),\n        'state': d.failed ? 'Défaillant' : (d.ready ? (v.status || '') : 'Interrogation en cours')\n    });\n}\n\nlet select = null;\nif (msg.payload !== 'controller' && msg.payload !== 'status') {\n    flow.set('current_manage', '', 'memoryOnly');\n    select = {\n        'payload': '',\n        'class': ids.length > 0 ? '' : 'remove',\n        'enabled': ids.length > 0,\n        'options': [{ 'label': '', 'value': '' }].concat(ids.map(id => ({ 'label': id + ' - ' + devices[id].name + (devices[id].product ? ' (' + devices[id].product + ')' : ''), 'value': id })))\n    };\n}\n\nreturn [\n    { 'payload': rows },\n    { 'payload': list, 'class': list.length > 0 ? '' : 'remove' },\n    select\n];",
+        "x": 290,
+        "y": 2180,
         "wires": [
             [
                 "fbe61269bba50d38"
@@ -3011,17 +3261,15 @@
             [
                 "329a56af293003ae"
             ]
-        ],
-        "x": 390,
-        "y": 2076
+        ]
     },
     {
         "id": "fbe61269bba50d38",
         "type": "ui-table",
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
-        "name": "custom - network - controller",
         "group": "d2d8cc46d8401cd0",
+        "name": "custom - network - controller",
         "label": "",
         "order": 1,
         "width": "3",
@@ -3053,11 +3301,11 @@
         "mobileBreakpoint": "sm",
         "mobileBreakpointType": "defaults",
         "action": "replace",
+        "x": 520,
+        "y": 2120,
         "wires": [
             []
-        ],
-        "x": 590,
-        "y": 2076
+        ]
     },
     {
         "id": "f423423ae63743d9",
@@ -3099,13 +3347,13 @@
         ],
         "topic": "topic",
         "topicType": "msg",
+        "x": 520,
+        "y": 2180,
         "wires": [
             [
                 "ca615bb94844f911"
             ]
-        ],
-        "x": 590,
-        "y": 2136
+        ]
     },
     {
         "id": "ca615bb94844f911",
@@ -3113,20 +3361,20 @@
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
         "name": "inclusion",
+        "func": "// Inclusion buttons: INCLUDE / EXCLUDE / STOP\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst c = (devices.controller || {}).values || {};\n\nfunction order(property, value) {\n\n    return { 'topic': 'controller', 'payload': { 'id': 'controller', 'property': property, 'value': value } };\n}\n\nswitch (msg.payload) {\n    case 'INCLUDE':\n\n        return order('inclusion', 'ON');\n    case 'EXCLUDE':\n\n        return order('exclusion', 'ON');\n    case 'STOP':\n\n        return c.exclusion === true ? order('exclusion', 'OFF') : order('inclusion', 'OFF');\n}\n\nreturn;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Inclusion buttons: INCLUDE / EXCLUDE / STOP\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst c = (devices.controller || {}).values || {};\n\nfunction order(property, value) {\n\n    return { 'topic': 'controller', 'payload': { 'id': 'controller', 'property': property, 'value': value } };\n}\n\nswitch (msg.payload) {\n    case 'INCLUDE':\n\n        return order('inclusion', 'ON');\n    case 'EXCLUDE':\n\n        return order('exclusion', 'ON');\n    case 'STOP':\n\n        return c.exclusion === true ? order('exclusion', 'OFF') : order('inclusion', 'OFF');\n}\n\nreturn;",
+        "x": 760,
+        "y": 2180,
         "wires": [
             [
                 "8a20c979179902eb"
             ]
-        ],
-        "x": 790,
-        "y": 2136
+        ]
     },
     {
         "id": "8a20c979179902eb",
@@ -3135,20 +3383,20 @@
         "g": "ee16f996cbf1d3d4",
         "name": "custom - network - pilot",
         "mode": "link",
-        "wires": [],
         "links": [
             "bef26947b63403d9"
         ],
-        "x": 990,
-        "y": 2136
+        "x": 895,
+        "y": 2180,
+        "wires": []
     },
     {
         "id": "3aa44cfa9197aaf6",
         "type": "ui-table",
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
-        "name": "custom - network - nodes",
         "group": "8a9f06fbdfcb3a49",
+        "name": "custom - network - nodes",
         "label": "",
         "order": 1,
         "width": "6",
@@ -3221,19 +3469,19 @@
         "mobileBreakpointType": "defaults",
         "action": "replace",
         "className": "dknr-headers",
+        "x": 510,
+        "y": 2240,
         "wires": [
             []
-        ],
-        "x": 590,
-        "y": 2196
+        ]
     },
     {
         "id": "329a56af293003ae",
         "type": "ui-dropdown",
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
-        "name": "custom - network - select",
         "group": "37c8115e7398caa1",
+        "name": "custom - network - select",
         "label": "Sélectionner un nœud",
         "tooltip": "",
         "order": 1,
@@ -3256,13 +3504,13 @@
         "className": "",
         "typeIsComboBox": true,
         "msgTrigger": "onChange",
+        "x": 510,
+        "y": 2300,
         "wires": [
             [
                 "8f548a4b61127aa0"
             ]
-        ],
-        "x": 590,
-        "y": 2256
+        ]
     },
     {
         "id": "8f548a4b61127aa0",
@@ -3270,20 +3518,20 @@
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
         "name": "select",
+        "func": "// Select a node to rename, move or remove, prefill the form\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = typeof msg.payload === 'string' ? msg.payload : '';\n\nif (id === '' || id === 'controller' || typeof devices[id] !== 'object') {\n    flow.set('current_manage', '', 'memoryOnly');\n\n    return { 'payload': { 'name': '', 'loc': '', 'remove': false }, 'class': 'remove' };\n}\n\nflow.set('current_manage', id, 'memoryOnly');\n\nreturn { 'payload': { 'name': devices[id].name, 'loc': devices[id].loc || '', 'remove': false }, 'class': '' };",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Select a node to rename, move or remove, prefill the form\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = typeof msg.payload === 'string' ? msg.payload : '';\n\nif (id === '' || id === 'controller' || typeof devices[id] !== 'object') {\n    flow.set('current_manage', '', 'memoryOnly');\n\n    return { 'payload': { 'name': '', 'loc': '', 'remove': false }, 'class': 'remove' };\n}\n\nflow.set('current_manage', id, 'memoryOnly');\n\nreturn { 'payload': { 'name': devices[id].name, 'loc': devices[id].loc || '', 'remove': false }, 'class': '' };",
+        "x": 730,
+        "y": 2300,
         "wires": [
             [
                 "ba553c8146b17bf7"
             ]
-        ],
-        "x": 790,
-        "y": 2256
+        ]
     },
     {
         "id": "ba553c8146b17bf7",
@@ -3333,13 +3581,13 @@
         "className": "",
         "passthru": false,
         "dropdownOptions": [],
+        "x": 950,
+        "y": 2300,
         "wires": [
             [
                 "69133b43335dba3d"
             ]
-        ],
-        "x": 990,
-        "y": 2256
+        ]
     },
     {
         "id": "69133b43335dba3d",
@@ -3347,13 +3595,15 @@
         "z": "48135a54600713e8",
         "g": "ee16f996cbf1d3d4",
         "name": "manage",
+        "func": "// Rename, move or remove the selected node through Z-Wave JS UI\n// output 1: Z-Wave JS UI API requests / output 2: notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_manage', 'memoryOnly') || '';\nconst dev = devices[id];\nconst p = msg.payload || {};\n\nif (typeof dev !== 'object') {\n\n    return [null, { 'payload': 'Sélectionnez un nœud' }];\n}\n\nif (api('getNodes', []) === null) {\n\n    return [null, { 'payload': 'Passerelle Z-Wave JS UI inconnue' }];\n}\n\n// remove a failed node (Z-Wave JS refuses to remove a node that still answers)\nif (p.remove === true) {\n    flow.set('current_manage', '', 'memoryOnly');\n\n    return [api('removeFailedNode', [dev.nodeId]), { 'payload': 'Suppression du nœud ' + id + ' demandée' }];\n}\n\nconst name = String(p.name || '').trim();\nconst loc = String(p.loc || '').trim();\nlet requests = [];\n\nif (name !== '' && name !== dev.name) {\n    requests.push(api('setNodeName', [dev.nodeId, name]));\n}\nif (loc !== (dev.loc || '')) {\n    requests.push(api('setNodeLocation', [dev.nodeId, loc]));\n}\n\nif (requests.length === 0) {\n\n    return [null, { 'payload': 'Aucune modification' }];\n}\n\nfor (const r of requests) {\n    node.send([r, null]);\n}\n\nreturn;",
         "outputs": 2,
         "timeout": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "func": "// Rename, move or remove the selected node through Z-Wave JS UI\n// output 1: Z-Wave JS UI API requests / output 2: notification\n\n// Z-Wave JS UI API request: prefix / _CLIENTS / client / api / name / set = {args}\nfunction api(name, args) {\n    const mqtt = global.get('mqtt', 'default') || {};\n    const client = global.get('client', 'memoryOnly') || {};\n    if (typeof mqtt.source !== 'string' || mqtt.source === '' || typeof client.id !== 'string' || client.id === '') {\n\n        return null;\n    }\n\n    return {\n        'topic': [mqtt.source, '_CLIENTS', client.id, 'api', name, 'set'].join('/'),\n        'payload': { 'args': args || [], 'dknr': Date.now() },\n        'qos': 1,\n        'retain': false\n    };\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = flow.get('current_manage', 'memoryOnly') || '';\nconst dev = devices[id];\nconst p = msg.payload || {};\n\nif (typeof dev !== 'object') {\n\n    return [null, { 'payload': 'Sélectionnez un nœud' }];\n}\n\nif (api('getNodes', []) === null) {\n\n    return [null, { 'payload': 'Passerelle Z-Wave JS UI inconnue' }];\n}\n\n// remove a failed node (Z-Wave JS refuses to remove a node that still answers)\nif (p.remove === true) {\n    flow.set('current_manage', '', 'memoryOnly');\n\n    return [api('removeFailedNode', [dev.nodeId]), { 'payload': 'Suppression du nœud ' + id + ' demandée' }];\n}\n\nconst name = String(p.name || '').trim();\nconst loc = String(p.loc || '').trim();\nlet requests = [];\n\nif (name !== '' && name !== dev.name) {\n    requests.push(api('setNodeName', [dev.nodeId, name]));\n}\nif (loc !== (dev.loc || '')) {\n    requests.push(api('setNodeLocation', [dev.nodeId, loc]));\n}\n\nif (requests.length === 0) {\n\n    return [null, { 'payload': 'Aucune modification' }];\n}\n\nfor (const r of requests) {\n    node.send([r, null]);\n}\n\nreturn;",
+        "x": 1180,
+        "y": 2300,
         "wires": [
             [
                 "5b440dca40c288c0"
@@ -3361,9 +3611,7 @@
             [
                 "01d4759a2a495389"
             ]
-        ],
-        "x": 1190,
-        "y": 2256
+        ]
     },
     {
         "id": "5b440dca40c288c0",
@@ -3372,12 +3620,12 @@
         "g": "ee16f996cbf1d3d4",
         "name": "custom - network - request",
         "mode": "link",
-        "wires": [],
         "links": [
             "d5bdaec879cbd196"
         ],
-        "x": 1390,
-        "y": 2256
+        "x": 1315,
+        "y": 2240,
+        "wires": []
     },
     {
         "id": "01d4759a2a495389",
@@ -3386,12 +3634,12 @@
         "g": "ee16f996cbf1d3d4",
         "name": "custom - network - notify",
         "mode": "link",
-        "wires": [],
         "links": [
             "fc147ee782462bbe"
         ],
-        "x": 1390,
-        "y": 2316
+        "x": 1315,
+        "y": 2300,
+        "wires": []
     },
     {
         "id": "859f00c6e26b7a40",
@@ -3399,256 +3647,8 @@
         "z": "48135a54600713e8",
         "name": "Sources",
         "info": "Z-Wave JS UI MQTT: https://zwave-js.github.io/zwave-js-ui/#/guide/mqtt\n\nLes entités DKNR sont construites à partir des valeurs des nœuds (API getNodes).\nMises à jour instantanées : option « Send Z-Wave events » de la passerelle Z-Wave JS UI,\nou valeurs publiées avec le format « Entire ValueID ».\nL'identifiant d'un appareil est son numéro de nœud : il ne change pas si le nœud est renommé.",
-        "x": 150,
-        "y": 2418,
+        "x": 720,
+        "y": 80,
         "wires": []
-    },
-    {
-        "id": "df7710b4b2c4e55b",
-        "type": "ui-base",
-        "name": "Tableau de bord",
-        "path": "/dashboard",
-        "appIcon": "/icon.png",
-        "includeClientData": true,
-        "acceptsClientConfig": [
-            "ui-notification",
-            "ui-control"
-        ],
-        "showPathInSidebar": false,
-        "headerContent": "none",
-        "navigationStyle": "none",
-        "titleBarStyle": "hidden",
-        "showReconnectNotification": true,
-        "notificationDisplayTime": 1,
-        "showDisconnectNotification": true,
-        "allowInstall": false
-    },
-    {
-        "id": "877e716e64a22cf1",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "f89655b525aee8cd",
-        "type": "ui-page",
-        "name": "detail",
-        "ui": "df7710b4b2c4e55b",
-        "path": "/",
-        "icon": "eye",
-        "layout": "notebook",
-        "theme": "877e716e64a22cf1",
-        "breakpoints": [
-            {
-                "name": "Default",
-                "px": "0",
-                "cols": "3"
-            },
-            {
-                "name": "Tablet",
-                "px": "576",
-                "cols": "6"
-            },
-            {
-                "name": "Small Desktop",
-                "px": "768",
-                "cols": "9"
-            },
-            {
-                "name": "Desktop",
-                "px": "1024",
-                "cols": "12"
-            }
-        ],
-        "order": 1,
-        "className": "",
-        "visible": "true",
-        "disabled": "false"
-    },
-    {
-        "id": "887b3087f3dda2eb",
-        "type": "ui-page",
-        "name": "mqtt",
-        "ui": "df7710b4b2c4e55b",
-        "path": "/mqtt",
-        "icon": "cog",
-        "layout": "notebook",
-        "theme": "877e716e64a22cf1",
-        "breakpoints": [
-            {
-                "name": "Default",
-                "px": "0",
-                "cols": "3"
-            },
-            {
-                "name": "Tablet",
-                "px": "576",
-                "cols": "6"
-            },
-            {
-                "name": "Small Desktop",
-                "px": "768",
-                "cols": "9"
-            },
-            {
-                "name": "Desktop",
-                "px": "1024",
-                "cols": "12"
-            }
-        ],
-        "order": 3,
-        "className": "",
-        "visible": "true",
-        "disabled": "false"
-    },
-    {
-        "id": "117d5289b94a0fc6",
-        "type": "ui-group",
-        "name": "Piloter un nœud",
-        "page": "f89655b525aee8cd",
-        "width": "6",
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "4c116fe2697e0aa9",
-        "type": "ui-group",
-        "name": "Configurer MQTT",
-        "page": "887b3087f3dda2eb",
-        "width": "3",
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "2c5e094fee5ae877",
-        "type": "mqtt-broker",
-        "name": "MQTT",
-        "broker": "192.168.0.11",
-        "port": "1883",
-        "clientid": "dkzwave",
-        "autoConnect": true,
-        "usetls": false,
-        "protocolVersion": 4,
-        "keepalive": 60,
-        "cleansession": true,
-        "autoUnsubscribe": true,
-        "birthTopic": "",
-        "birthQos": "0",
-        "birthRetain": "false",
-        "birthPayload": "",
-        "birthMsg": {},
-        "closeTopic": "",
-        "closeQos": "0",
-        "closeRetain": "false",
-        "closePayload": "",
-        "closeMsg": {},
-        "willTopic": "",
-        "willQos": "0",
-        "willRetain": "false",
-        "willPayload": "",
-        "willMsg": {},
-        "userProps": "",
-        "sessionExpiry": ""
-    },
-    {
-        "id": "4e9812ccd71b0540",
-        "type": "ui-page",
-        "name": "network",
-        "ui": "df7710b4b2c4e55b",
-        "path": "/network",
-        "icon": "z-wave",
-        "layout": "notebook",
-        "theme": "877e716e64a22cf1",
-        "breakpoints": [
-            {
-                "name": "Default",
-                "px": "0",
-                "cols": "3"
-            },
-            {
-                "name": "Tablet",
-                "px": "576",
-                "cols": "6"
-            },
-            {
-                "name": "Small Desktop",
-                "px": "768",
-                "cols": "9"
-            },
-            {
-                "name": "Desktop",
-                "px": "1024",
-                "cols": "12"
-            }
-        ],
-        "order": 2,
-        "className": "",
-        "visible": "true",
-        "disabled": "false"
-    },
-    {
-        "id": "d2d8cc46d8401cd0",
-        "type": "ui-group",
-        "name": "Contrôleur Z-Wave",
-        "page": "4e9812ccd71b0540",
-        "width": "3",
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "8a9f06fbdfcb3a49",
-        "type": "ui-group",
-        "name": "Nœuds Z-Wave",
-        "page": "4e9812ccd71b0540",
-        "width": "6",
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "37c8115e7398caa1",
-        "type": "ui-group",
-        "name": "Gérer un nœud",
-        "page": "4e9812ccd71b0540",
-        "width": "3",
-        "height": 1,
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
     }
 ]
