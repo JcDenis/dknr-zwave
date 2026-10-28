@@ -52,6 +52,7 @@ Dans **Settings** de Z-Wave JS UI :
 
 * **MQTT** : renseignez le serveur MQTT (**Host url** avec l'adresse IP réelle du serveur, **Port**). L'option **Disable Gateway** doit rester décochée. Notez le **Prefix** (`zwave` par défaut). Laissez **Retain** activé pour que l'état de la passerelle soit retrouvé au démarrage.
 * **Gateway** : activez **Send Z-Wave Events**. Les événements sont publiés à part, sur `<prefix>/_EVENTS/...` : ils donnent les changements de valeurs et d'état des nœuds immédiatement, quels que soient le **Type** et le **Payload type** de la passerelle. Vous pouvez donc garder vos réglages actuels, par exemple *Just value*, pour vos autres usages.
+* **Home Assistant** (onglet de la passerelle) : avec le **Payload type** *Just value*, Z-Wave JS UI refuse d'activer **MQTT Discovery**. Désactivez-la : la discovery Home Assistant est alors faite par DKNR Z-Wave (topic de discovery de la page **Configurer**).
 
 Sans les événements, les valeurs ne sont relues que toutes les 5 minutes, sauf si le **Payload type** est *Entire ValueId Object*. La page **Réseau** indique si les événements sont bien reçus.
 
