@@ -51,7 +51,9 @@ Le tableau de bord DKNR est disponible sur `http://<ip du serveur docker>/`, l'�
 Dans **Settings** de Z-Wave JS UI :
 
 * **MQTT** : renseignez le serveur MQTT (**Host url** avec l'adresse IP réelle du serveur, **Port**). L'option **Disable Gateway** doit rester décochée. Notez le **Prefix** (`zwave` par défaut). Laissez **Retain** activé pour que l'état de la passerelle soit retrouvé au démarrage.
-* **Gateway** : activez **Send Z-Wave Events** pour que les changements de valeurs et d'état des nœuds soient transmis immédiatement. Sans cette option, choisissez **Payload type : Entire ValueId Object** ; à défaut, les valeurs ne sont relues que toutes les 5 minutes.
+* **Gateway** : activez **Send Z-Wave Events**. Les événements sont publiés à part, sur `<prefix>/_EVENTS/...` : ils donnent les changements de valeurs et d'état des nœuds immédiatement, quels que soient le **Type** et le **Payload type** de la passerelle. Vous pouvez donc garder vos réglages actuels, par exemple *Just value*, pour vos autres usages.
+
+Sans les événements, les valeurs ne sont relues que toutes les 5 minutes, sauf si le **Payload type** est *Entire ValueId Object*. La page **Réseau** indique si les événements sont bien reçus.
 
 Le websocket de Z-Wave JS (port 3000) reste disponible pour l'intégration Z-Wave JS de Home Assistant. Si vous l'utilisez, chaque appareil apparaîtra deux fois dans Home Assistant : laissez alors vide le topic de discovery Home Assistant de DKNR Z-Wave, ou n'utilisez que l'une des deux.
 
