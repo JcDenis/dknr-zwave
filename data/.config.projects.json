@@ -1,0 +1,8 @@
+{
+    "projects": {
+        "DkZwave": {
+            "credentialSecret": "dknr-zwave"
+        }
+    },
+    "activeProject": "dknr-zwave"
+}

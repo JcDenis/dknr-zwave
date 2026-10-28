@@ -1,0 +1,250 @@
+[
+  {
+    "id": "df7710b4b2c4e55b",
+    "type": "ui-base",
+    "name": "Tableau de bord",
+    "path": "/dashboard",
+    "appIcon": "/icon.png",
+    "includeClientData": true,
+    "acceptsClientConfig": [
+      "ui-notification",
+      "ui-control"
+    ],
+    "showPathInSidebar": false,
+    "headerContent": "none",
+    "navigationStyle": "none",
+    "titleBarStyle": "hidden",
+    "showReconnectNotification": true,
+    "notificationDisplayTime": 1,
+    "showDisconnectNotification": true,
+    "allowInstall": false
+  },
+  {
+    "id": "877e716e64a22cf1",
+    "type": "ui-theme",
+    "name": "Default Theme",
+    "colors": {
+      "surface": "#ffffff",
+      "primary": "#0094CE",
+      "bgPage": "#eeeeee",
+      "groupBg": "#ffffff",
+      "groupOutline": "#cccccc"
+    },
+    "sizes": {
+      "density": "default",
+      "pagePadding": "12px",
+      "groupGap": "12px",
+      "groupBorderRadius": "4px",
+      "widgetGap": "12px"
+    }
+  },
+  {
+    "id": "f89655b525aee8cd",
+    "type": "ui-page",
+    "name": "detail",
+    "ui": "df7710b4b2c4e55b",
+    "path": "/",
+    "icon": "eye",
+    "layout": "notebook",
+    "theme": "877e716e64a22cf1",
+    "breakpoints": [
+      {
+        "name": "Default",
+        "px": "0",
+        "cols": "3"
+      },
+      {
+        "name": "Tablet",
+        "px": "576",
+        "cols": "6"
+      },
+      {
+        "name": "Small Desktop",
+        "px": "768",
+        "cols": "9"
+      },
+      {
+        "name": "Desktop",
+        "px": "1024",
+        "cols": "12"
+      }
+    ],
+    "order": 1,
+    "className": "",
+    "visible": "true",
+    "disabled": "false"
+  },
+  {
+    "id": "887b3087f3dda2eb",
+    "type": "ui-page",
+    "name": "mqtt",
+    "ui": "df7710b4b2c4e55b",
+    "path": "/mqtt",
+    "icon": "cog",
+    "layout": "notebook",
+    "theme": "877e716e64a22cf1",
+    "breakpoints": [
+      {
+        "name": "Default",
+        "px": "0",
+        "cols": "3"
+      },
+      {
+        "name": "Tablet",
+        "px": "576",
+        "cols": "6"
+      },
+      {
+        "name": "Small Desktop",
+        "px": "768",
+        "cols": "9"
+      },
+      {
+        "name": "Desktop",
+        "px": "1024",
+        "cols": "12"
+      }
+    ],
+    "order": 3,
+    "className": "",
+    "visible": "true",
+    "disabled": "false"
+  },
+  {
+    "id": "117d5289b94a0fc6",
+    "type": "ui-group",
+    "name": "Piloter un nœud",
+    "page": "f89655b525aee8cd",
+    "width": "6",
+    "height": 1,
+    "order": 1,
+    "showTitle": true,
+    "className": "",
+    "visible": "true",
+    "disabled": "false",
+    "groupType": "default"
+  },
+  {
+    "id": "4c116fe2697e0aa9",
+    "type": "ui-group",
+    "name": "Configurer MQTT",
+    "page": "887b3087f3dda2eb",
+    "width": "3",
+    "height": 1,
+    "order": 1,
+    "showTitle": true,
+    "className": "",
+    "visible": "true",
+    "disabled": "false",
+    "groupType": "default"
+  },
+  {
+    "id": "2c5e094fee5ae877",
+    "type": "mqtt-broker",
+    "name": "MQTT",
+    "broker": "192.168.0.11",
+    "port": "1883",
+    "clientid": "dkzwave",
+    "autoConnect": true,
+    "usetls": false,
+    "protocolVersion": 4,
+    "keepalive": 60,
+    "cleansession": true,
+    "autoUnsubscribe": true,
+    "birthTopic": "",
+    "birthQos": "0",
+    "birthRetain": "false",
+    "birthPayload": "",
+    "birthMsg": {},
+    "closeTopic": "",
+    "closeQos": "0",
+    "closeRetain": "false",
+    "closePayload": "",
+    "closeMsg": {},
+    "willTopic": "",
+    "willQos": "0",
+    "willRetain": "false",
+    "willPayload": "",
+    "willMsg": {},
+    "userProps": "",
+    "sessionExpiry": ""
+  },
+  {
+    "id": "4e9812ccd71b0540",
+    "type": "ui-page",
+    "name": "network",
+    "ui": "df7710b4b2c4e55b",
+    "path": "/network",
+    "icon": "z-wave",
+    "layout": "notebook",
+    "theme": "877e716e64a22cf1",
+    "breakpoints": [
+      {
+        "name": "Default",
+        "px": "0",
+        "cols": "3"
+      },
+      {
+        "name": "Tablet",
+        "px": "576",
+        "cols": "6"
+      },
+      {
+        "name": "Small Desktop",
+        "px": "768",
+        "cols": "9"
+      },
+      {
+        "name": "Desktop",
+        "px": "1024",
+        "cols": "12"
+      }
+    ],
+    "order": 2,
+    "className": "",
+    "visible": "true",
+    "disabled": "false"
+  },
+  {
+    "id": "d2d8cc46d8401cd0",
+    "type": "ui-group",
+    "name": "Contrôleur Z-Wave",
+    "page": "4e9812ccd71b0540",
+    "width": "3",
+    "height": 1,
+    "order": 1,
+    "showTitle": true,
+    "className": "",
+    "visible": "true",
+    "disabled": "false",
+    "groupType": "default"
+  },
+  {
+    "id": "8a9f06fbdfcb3a49",
+    "type": "ui-group",
+    "name": "Nœuds Z-Wave",
+    "page": "4e9812ccd71b0540",
+    "width": "6",
+    "height": 1,
+    "order": 2,
+    "showTitle": true,
+    "className": "",
+    "visible": "true",
+    "disabled": "false",
+    "groupType": "default"
+  },
+  {
+    "id": "37c8115e7398caa1",
+    "type": "ui-group",
+    "name": "Gérer un nœud",
+    "page": "4e9812ccd71b0540",
+    "width": "3",
+    "height": 1,
+    "order": 3,
+    "showTitle": true,
+    "className": "",
+    "visible": "true",
+    "disabled": "false",
+    "groupType": "default"
+  }
+]

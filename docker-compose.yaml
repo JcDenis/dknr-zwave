@@ -1,0 +1,77 @@
+# Z-Wave JS UI and DKNR Z-Wave
+#
+# Required the following environement variables:
+# - DKNR_USERNAME
+# - DKNR_PASSWORD
+# - DKNR_SECRET
+#
+# Z-Wave JS UI and DKNR Z-Wave must use the same MQTT server:
+# set it in Z-Wave JS UI Settings > MQTT and in DKNR Z-Wave "Configurer" page.
+# DKNR Z-Wave: http://<docker host>, Z-Wave JS UI web interface: http://<docker host>:1880
+#
+name: DKNRZwave
+
+services:
+    zwave-js-ui:
+        container_name: zwave-js-ui
+        image: zwavejs/zwave-js-ui:latest
+        restart: always
+        tty: true
+        stop_signal: SIGINT
+        environment:
+            - ZWAVEJS_EXTERNAL_CONFIG=/usr/src/app/store/.config-db
+        networks:
+            - zwave
+        devices:
+            - /dev/ttyACM0
+        volumes:
+            - zwave:/usr/src/app/store
+        ports:
+            - 1880:8091 # port for web interface
+            - 3000:3000 # port for Z-Wave JS websocket server
+        logging:
+          driver: "json-file"
+          options:
+            max-size: "20m"
+            max-file: "5"
+
+    dknr_zwave:
+        container_name: dknr_zwave
+        image: jcpd/dknr-zwave:latest
+        restart: unless-stopped
+        deploy:
+            resources:
+                limits:
+                    cpus: '1.0'
+                    memory: 512M
+        environment:
+            TZ: Europe/Paris
+            DKNR_USERNAME: ${DKNR_USERNAME}
+            DKNR_PASSWORD: ${DKNR_PASSWORD}
+            DKNR_SECRET: ${DKNR_SECRET}
+        networks:
+            - zwave
+        ports:
+            # change the first port if port 80 is already used on this host
+            - 80:1880
+        volumes:
+            - dknr_zwave:/data
+        healthcheck:
+            test: timeout 10s bash -c ':> /dev/tcp/127.0.0.1/1880' || exit 1
+            interval: 10s
+            timeout: 5s
+            retries: 3
+            start_period: 90s
+        logging:
+          driver: "json-file"
+          options:
+            max-size: "20m"
+            max-file: "5"
+
+networks:
+    zwave:
+
+volumes:
+    zwave:
+        name: zwave
+    dknr_zwave:
