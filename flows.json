@@ -3401,7 +3401,7 @@
         "order": 1,
         "width": "6",
         "height": 0,
-        "maxrows": 0,
+        "maxrows": "50",
         "passthru": false,
         "autocols": false,
         "showSearch": true,
