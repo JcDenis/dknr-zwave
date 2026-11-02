@@ -78,7 +78,7 @@ Dans la page **Réseau**, cliquez sur **Inclure** puis mettez l'appareil en mode
 
 Avec le topic `dknr` par défaut, l'identifiant d'un appareil est son numéro de nœud (ex : `5`) et le nom d'une entité est `<command class>_<endpoint>_<propriété>[_<clé>]` (ex : `37_0_currentValue`, `49_0_Air_temperature`, `50_0_value_65537`) :
 
-* `dknr/get/zwave/<nœud>/<entité>` : valeurs publiées (retenues, sauf scènes et notifications) à chaque changement. Les états binaires valent `1` ou `0`, les listes de choix leur libellé.
+* `dknr/get/zwave/<nœud>/<entité>` : valeurs publiées (retenues, sauf scènes et notifications) à chaque changement. Les états binaires valent `1` ou `0`, y compris les listes à deux états de type repos / détection (ex : notifications `idle` / `Motion detection`, porte ouverte / fermée), les autres listes de choix leur libellé.
 * `dknr/set/zwave/<nœud>/<entité>` : commande, `1`, `0` ou `TOGGLE` (`ON` et `OFF` sont aussi acceptés) pour un état binaire, un nombre, un libellé (ou sa valeur) pour une liste de choix.
 * `dknr/discovery/zwave/<nœud>/<entité>` : description des entités.
 * `homeassistant/<type>/zwave/<nœud>_<entité>/config` : Home Assistant Discovery.
