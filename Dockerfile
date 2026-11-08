@@ -9,13 +9,13 @@ USER root
 ENV DKNR_USERNAME=admin \
       DKNR_PASSWORD=admin \
       DKNR_SECRET=dkzwave \
-      DKNR_REPOSITORY=https://github.com/JcDenis/dknr-zwave \
+      DKNR_REPOSITORY=https://github.com/dknr-domotic/dknr-zwave \
       NODE_RED_ENABLE_PROJECTS=true \
       TZ=Europe/Paris
 
 # Image label
 LABEL org.opencontainers.image.authors="Jean-Christian Paul Denis" \
-      org.opencontainers.image.source="https://github.com/JcDenis/dknr-zwave" \
+      org.opencontainers.image.source="https://github.com/dknr-domotic/dknr-zwave" \
       org.opencontainers.image.title="DKNR Z-Wave" \
       org.opencontainers.image.description="Z-Wave JS UI devices to DKNR MQTT with web UI" \
       org.opencontainers.image.licenses="AGPL-3.0"
