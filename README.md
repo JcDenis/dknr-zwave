@@ -10,6 +10,8 @@
 
 **dknr-zwave** est un projet consacré au pilotage, à la récupération et à l'exploitation des données des appareils Z-Wave en local. Ce projet s'appuie sur [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui), qui gère le contrôleur et le réseau Z-Wave, et reprend ses nœuds dans la même arborescence MQTT que les autres projets DKNR.
 
+La documentation détaillée est sur [dknr-domotic.github.io](https://dknr-domotic.github.io/sources/zwave/).
+
 
 ## Fonctionnalités
 
